@@ -1933,3 +1933,963 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.19-11.49.52:914][695]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/GART2502008EAA5460F76E43DFC5C8AB78D7361.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250.umap'
 [2020.02.19-11.49.52:955][695]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GART250_BuiltData" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250_BuiltData.uasset" SILENT=true
 [2020.02.19-11.49.53:353][695]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/GART250_BuiltDataDD339E32454A83863A7BCDB78372A30A.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250_BuiltData.uasset'
+[2020.02.19-11.58.48:531][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-11.59.42:728][  6]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 G:\Year 2\GART250\Exports\Beading.fbx)
+[2020.02.19-11.59.42:738][  6]LogFbx: Loading FBX Scene from G:\Year 2\GART250\Exports\Beading.fbx
+[2020.02.19-11.59.42:745][  6]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.19-11.59.45:279][  6]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.19-11.59.45:329][  6]LogFbx: Display: Triangulating static mesh pPlane44
+[2020.02.19-11.59.45:330][  6]LogStaticMesh: Building static mesh Beading...
+[2020.02.19-11.59.45:331][  6]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Assets/Beading.Beading
+[2020.02.19-11.59.45:338][  6]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.19-11.59.47:136][182]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-11.59.47:138][182]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-11.59.48:157][288]LogActorFactory: Actor Factory created Beading
+[2020.02.19-11.59.48:733][350]LogActorFactory: Actor Factory created Beading
+[2020.02.19-12.00.02:176][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.19-12.00.09:000][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2020.02.19-12.00.12:068][874]Cmd: TRANSACTION UNDO
+[2020.02.19-12.00.12:068][874]LogEditorTransaction: Undo Scale Actors
+[2020.02.19-12.00.12:536][920]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.00.12:594][927]Cmd: MODE SCALEGRID=0
+[2020.02.19-12.00.16:203][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.19-12.00.18:380][544]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-12.00.23:735][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling32)
+[2020.02.19-12.00.24:516][205]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling39)
+[2020.02.19-12.00.28:409][632]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.00.36:952][612]Cmd: TRANSACTION UNDO
+[2020.02.19-12.00.36:952][612]LogEditorTransaction: Undo Create Actors
+[2020.02.19-12.00.37:216][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.00.47:189][796]Cmd: TRANSACTION UNDO
+[2020.02.19-12.00.47:189][796]LogEditorTransaction: Undo Create Actors
+[2020.02.19-12.00.47:806][858]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.00.50:937][220]Cmd: TRANSACTION UNDO
+[2020.02.19-12.00.50:937][220]LogEditorTransaction: Undo Create Actors
+[2020.02.19-12.00.51:900][323]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.01.08:118][214]Cmd: TRANSACTION UNDO
+[2020.02.19-12.01.08:118][214]LogEditorTransaction: Undo Create Actors
+[2020.02.19-12.01.27:173][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.19-12.01.53:695][571]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-12.01.53:752][571]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.02.19-12.01.53:752][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GART250" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/GART250_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.19-12.01.54:112][571]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/GART250_Auto542BCBCF040CD035948B42B945F8B865A.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/GART250_Auto5.umap'
+[2020.02.19-12.01.54:123][571]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GART250' took 0.399
+[2020.02.19-12.01.54:123][571]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.399
+[2020.02.19-12.01.54:124][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Structure/SM_DropCeiling_Light] ([1] browsable assets)...
+[2020.02.19-12.01.54:136][571]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Structure/SM_DropCeiling_Light.SM_DropCeiling_Light]
+[2020.02.19-12.01.54:136][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Structure/SM_DropCeiling_Light]
+[2020.02.19-12.01.54:163][571]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_DropCeiling_Light_Auto55ECE7FA04A9ED1DDC4EBA88F98201E35.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Meshes/Structure/SM_DropCeiling_Light_Auto5.uasset'
+[2020.02.19-12.01.54:164][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Ceiling/DC_L/DC_L] ([1] browsable assets)...
+[2020.02.19-12.01.54:176][571]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Ceiling/DC_L/DC_L.DC_L]
+[2020.02.19-12.01.54:176][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Ceiling/DC_L/DC_L]
+[2020.02.19-12.01.54:206][571]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/DC_L_Auto558DFB0F94CFBAA5D0280D298250DBD1B.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/Ceiling/DC_L/DC_L_Auto5.uasset'
+[2020.02.19-12.01.54:206][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Ceiling/DC_L/DC_L_Inst] ([1] browsable assets)...
+[2020.02.19-12.01.54:219][571]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/Ceiling/DC_L/DC_L_Inst.DC_L_Inst]
+[2020.02.19-12.01.54:219][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Ceiling/DC_L/DC_L_Inst]
+[2020.02.19-12.01.54:264][571]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/DC_L_Inst_Auto5EA4871624C5620D977D5F5B8F0777BCA.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/Ceiling/DC_L/DC_L_Inst_Auto5.uasset'
+[2020.02.19-12.01.54:264][571]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Assets/Beading] ([1] browsable assets)...
+[2020.02.19-12.01.54:276][571]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Assets/Beading.Beading]
+[2020.02.19-12.01.54:276][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Assets/Beading]
+[2020.02.19-12.01.54:296][571]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Beading_Auto5674B0796461696FEED1C5EAA4D25E36C.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Meshes/Assets/Beading_Auto5.uasset'
+[2020.02.19-12.01.54:297][571]LogFileHelpers: Auto-saving content packages took 0.174
+[2020.02.19-12.02.09:094][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.02.10:166][442]LogActorFactory: Actor Factory created Cube
+[2020.02.19-12.02.10:999][531]LogActorFactory: Actor Factory created Cube
+[2020.02.19-12.03.18:760][ 72]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube58)
+[2020.02.19-12.03.18:892][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-12.03.19:742][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2020.02.19-12.03.26:370][889]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2020.02.19-12.03.26:691][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.02.19-12.03.33:675][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2020.02.19-12.03.51:985][697]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-12.03.54:652][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube60)
+[2020.02.19-12.03.55:386][ 60]Cmd: DELETE
+[2020.02.19-12.03.55:386][ 60]Cmd: ACTOR DELETE
+[2020.02.19-12.03.55:396][ 60]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.19-12.03.55:420][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.02.19-12.03.55:420][ 60]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2020.02.19-12.03.55:641][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube58)
+[2020.02.19-12.04.00:954][708]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-12.04.04:731][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk+Drawers_Desk_Body)
+[2020.02.19-12.04.06:081][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.04.22:218][151]Cmd: TRANSACTION UNDO
+[2020.02.19-12.04.22:218][151]LogEditorTransaction: Undo Create Actors
+[2020.02.19-12.04.22:850][217]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-12.04.33:444][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube57)
+[2020.02.19-12.04.41:307][324]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.19-12.04.51:385][453]Cmd: DELETE
+[2020.02.19-12.04.51:385][453]Cmd: ACTOR DELETE
+[2020.02.19-12.04.51:392][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.19-12.04.51:392][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.19-12.04.51:393][453]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.19-12.04.51:419][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.02.19-12.04.51:419][453]LogEditorActor: Deleted 3 Actors (0.034 secs)
+[2020.02.19-12.04.54:851][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TV)
+[2020.02.19-12.04.56:936][ 78]Cmd: TRANSACTION UNDO
+[2020.02.19-12.04.56:936][ 78]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.19-12.04.57:129][ 97]Cmd: TRANSACTION UNDO
+[2020.02.19-12.04.57:129][ 97]LogEditorTransaction: Undo Delete Actors
+[2020.02.19-12.04.57:326][105]Cmd: TRANSACTION UNDO
+[2020.02.19-12.04.57:326][105]LogEditorTransaction: Undo Move Actors
+[2020.02.19-12.04.57:753][146]Cmd: TRANSACTION UNDO
+[2020.02.19-12.04.57:753][146]LogEditorTransaction: Undo Move Actors
+[2020.02.19-12.04.58:171][195]Cmd: TRANSACTION UNDO
+[2020.02.19-12.04.58:171][195]LogEditorTransaction: Undo Move Actors
+[2020.02.19-12.04.58:662][252]Cmd: TRANSACTION UNDO
+[2020.02.19-12.04.58:662][252]LogEditorTransaction: Undo Scale Actors
+[2020.02.19-12.04.58:970][287]Cmd: TRANSACTION UNDO
+[2020.02.19-12.04.58:970][287]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.19-12.05.01:128][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube60)
+[2020.02.19-12.05.02:697][676]Cmd: DELETE
+[2020.02.19-12.05.02:697][676]Cmd: ACTOR DELETE
+[2020.02.19-12.05.02:703][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.19-12.05.02:703][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.19-12.05.02:704][676]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.19-12.05.02:729][676]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.02.19-12.05.02:729][676]LogEditorActor: Deleted 3 Actors (0.032 secs)
+[2020.02.19-12.05.08:454][358]MapCheck: New page: Map Check
+[2020.02.19-12.05.08:461][358]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-12.05.08:463][358]LightingResults: New page: Lighting Build - 19 Feb 2020 12:05:08
+[2020.02.19-12.05.08:477][358]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.19-12.05.08:480][358]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.19-12.05.08:480][358]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.19-12.05.08:481][358]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.19-12.05.08:481][358]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3564
+[2020.02.19-12.05.13:002][358]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.19-12.05.13:002][358]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.19-12.05.13:002][358]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.19-12.05.13:002][358]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.19-12.05.13:003][358]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.19-12.05.14:869][358]LogEditorBuildUtils: Build time 0:06
+[2020.02.19-12.05.14:881][358]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DC_L_Inst, compiling. 
+[2020.02.19-12.05.14:889][358]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer DC_L_Inst, compiling. 
+[2020.02.19-12.05.17:313][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.02.19-12.05.41:129][479]LightingResults: Warning: ConferenceRoom_pPlane42 Object has overlapping UVs.
+[2020.02.19-12.05.41:129][479]LightingResults: ConferenceRoom_pPlane42 Lightmap UV are overlapping by 30.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.19-12.05.41:292][481]Job is a success!
+[2020.02.19-12.05.41:366][482]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-12.05.41:405][482]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2020.02.19-12.05.41:405][482]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.19-12.05.41:405][482]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2020.02.19-12.05.41:405][482]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.19-12.05.41:405][482]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.02.19-12.05.41:405][482]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.02.19-12.05.41:405][482]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.02.19-12.05.44:075][482]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.02.19-12.05.44:075][482]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.02.19-12.05.44:075][482]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.02.19-12.05.44:075][482]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.02.19-12.05.44:075][482]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.02.19-12.05.44:075][482]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.02.19-12.05.44:075][482]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2020.02.19-12.05.44:075][482]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2020.02.19-12.05.44:096][482]LogStaticLightingSystem: GART250_BuiltData storing lightmap data for 323 meshes in 4 LightmapResourceClusters (80.8 Meshes per cluster).
+[2020.02.19-12.05.44:130][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.02.19-12.05.44:133][482]LogStaticLightingSystem: Illumination: 35.6 sec (2.47 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.02.19-12.05.44:133][482]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (6.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.02.19-12.05.44:133][482]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.02.19-12.05.45:015][482]Lightmass on 052TGADS-60361: 26.1 sec total, 1.46 sec importing, 80 ms setup, 3.90 sec photons, 20.6 sec processing, 0 ms extra exporting [323/323 mappings]. Threads: 1:22 min total, 52.1 sec processing.
+[2020.02.19-12.05.45:015][482]DumpUnbuiltLightIteractions
+[2020.02.19-12.05.45:015][482]Lights with unbuilt interactions: 0
+[2020.02.19-12.05.45:015][482]
+[2020.02.19-12.05.45:015][482]Primitives with unbuilt interactions: 0
+[2020.02.19-12.05.45:113][483]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.19-12.05.45:113][483]MapCheck: New page: GART250 - 19 Feb 2020 12:05:45
+[2020.02.19-12.05.45:114][483]MapCheck: Warning: ConferenceRoom_pPlane41_8 Static mesh actor has NULL StaticMesh property 
+[2020.02.19-12.05.45:116][483]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 3.004ms to complete.
+[2020.02.19-12.05.50:214][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.05.50:286][101]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-12.05.50:289][101]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-12.05.52:380][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ProteinBottle)
+[2020.02.19-12.05.54:338][575]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-12.06.21:205][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.19-12.06.23:232][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.06.29:924][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.11.58:297][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.02.19-12.11.58:298][801]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GART250" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/GART250_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.19-12.11.58:709][801]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/GART250_Auto6534A8096437F915EC00C6C930F60E7C2.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/GART250_Auto6.umap'
+[2020.02.19-12.11.58:713][801]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GART250' took 0.439
+[2020.02.19-12.11.58:713][801]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.439
+[2020.02.19-12.16.05:403][714]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-12.17.25:176][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ProteinPack)
+[2020.02.19-12.17.25:536][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (ProteinBottle)
+[2020.02.19-12.18.39:971][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls)
+[2020.02.19-12.18.42:795][151]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-12.19.04:830][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls)
+[2020.02.19-12.19.16:163][ 37]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-12.20.29:264][515]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-12.20.45:601][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls)
+[2020.02.19-12.21.12:636][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.22.39:603][789]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-12.22.39:654][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.02.19-12.22.39:655][789]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GART250' took 0.027
+[2020.02.19-12.22.58:901][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling15)
+[2020.02.19-12.22.59:495][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling16)
+[2020.02.19-12.23.00:391][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling9)
+[2020.02.19-12.23.00:870][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling8)
+[2020.02.19-12.23.01:430][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling15)
+[2020.02.19-12.23.01:995][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling16)
+[2020.02.19-12.23.02:725][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling23)
+[2020.02.19-12.23.03:345][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling22)
+[2020.02.19-12.23.04:184][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling15)
+[2020.02.19-12.23.04:806][606]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling23)
+[2020.02.19-12.23.05:421][674]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling22)
+[2020.02.19-12.23.05:863][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling15)
+[2020.02.19-12.23.06:468][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling16)
+[2020.02.19-12.23.06:866][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling23)
+[2020.02.19-12.23.07:375][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling22)
+[2020.02.19-12.23.07:974][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling15)
+[2020.02.19-12.23.08:350][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling16)
+[2020.02.19-12.23.21:710][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling9)
+[2020.02.19-12.23.22:253][498]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling2)
+[2020.02.19-12.23.24:163][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling16)
+[2020.02.19-12.23.25:813][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.24.03:140][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling22)
+[2020.02.19-12.24.03:613][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling15)
+[2020.02.19-12.24.03:992][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling16)
+[2020.02.19-12.24.04:384][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DropCeiling23)
+[2020.02.19-12.24.18:961][808]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.24.37:630][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-12.25.05:104][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_SkirtingBoard6)
+[2020.02.19-12.25.19:093][720]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.28.28:128][722]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.28.41:972][299]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube3)
+[2020.02.19-12.28.42:014][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-12.28.45:721][727]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-12.31.03:878][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk+Drawers_Desk_Drawer)
+[2020.02.19-12.31.10:918][757]Cmd: TRANSACTION UNDO
+[2020.02.19-12.31.10:918][757]LogEditorTransaction: Undo Move Actors
+[2020.02.19-12.31.12:106][875]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-12.32.53:542][809]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-12.32.53:593][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.02.19-12.32.53:593][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GART250" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/GART250_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.19-12.32.53:963][809]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/GART250_Auto7A2D3D8824B97802B636FA29371FF291C.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/GART250_Auto7.umap'
+[2020.02.19-12.32.53:975][809]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GART250' took 0.408
+[2020.02.19-12.32.53:975][809]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.408
+[2020.02.19-12.42.54:443][378]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.02.19-12.42.54:443][378]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GART250' took 0.053
+[2020.02.19-12.45.40:032][ 98]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.19-12.45.41:933][296]Cmd: DELETE
+[2020.02.19-12.45.41:933][296]Cmd: ACTOR DELETE
+[2020.02.19-12.45.41:940][296]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.19-12.45.41:965][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2020.02.19-12.45.41:966][296]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2020.02.19-12.45.43:671][482]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.45.57:830][570]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Master_Clone_EG\Master\GART250\Exports\Floor_Bathroom.fbx)
+[2020.02.19-12.45.57:841][570]LogFbx: Loading FBX Scene from D:\Master_Clone_EG\Master\GART250\Exports\Floor_Bathroom.fbx
+[2020.02.19-12.45.57:847][570]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.19-12.46.00:723][570]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.02.19-12.46.00:745][570]LogFbx: Display: Triangulating static mesh pPlane48
+[2020.02.19-12.46.00:748][570]LogStaticMesh: Building static mesh Floor_Bathroom...
+[2020.02.19-12.46.00:749][570]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Structure/Floor_Bathroom.Floor_Bathroom
+[2020.02.19-12.46.00:753][570]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.19-12.46.00:765][570]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Master_Clone_EG\Master\GART250\Exports\Floor_Carpet.fbx)
+[2020.02.19-12.46.00:775][570]LogFbx: Loading FBX Scene from D:\Master_Clone_EG\Master\GART250\Exports\Floor_Carpet.fbx
+[2020.02.19-12.46.00:781][570]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.19-12.46.00:790][570]LogFbx: Display: Triangulating static mesh pPlane46
+[2020.02.19-12.46.00:791][570]LogStaticMesh: Building static mesh Floor_Carpet...
+[2020.02.19-12.46.00:792][570]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Structure/Floor_Carpet.Floor_Carpet
+[2020.02.19-12.46.00:809][570]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.19-12.46.00:813][570]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Master_Clone_EG\Master\GART250\Exports\Floor_Cleo's.fbx)
+[2020.02.19-12.46.00:830][570]LogFbx: Loading FBX Scene from D:\Master_Clone_EG\Master\GART250\Exports\Floor_Cleo's.fbx
+[2020.02.19-12.46.00:837][570]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.19-12.46.00:849][570]LogFbx: Display: Triangulating static mesh pPlane47
+[2020.02.19-12.46.00:851][570]LogStaticMesh: Building static mesh Floor_Cleo_s...
+[2020.02.19-12.46.00:851][570]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Structure/Floor_Cleo_s.Floor_Cleo_s
+[2020.02.19-12.46.00:855][570]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.19-12.46.00:858][570]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Master_Clone_EG\Master\GART250\Exports\Floor_Wood.fbx)
+[2020.02.19-12.46.00:867][570]LogFbx: Loading FBX Scene from D:\Master_Clone_EG\Master\GART250\Exports\Floor_Wood.fbx
+[2020.02.19-12.46.00:873][570]LogFbx: FBX Scene Loaded Succesfully
+[2020.02.19-12.46.00:882][570]LogFbx: Display: Triangulating static mesh pPlane45
+[2020.02.19-12.46.00:882][570]LogStaticMesh: Building static mesh Floor_Wood...
+[2020.02.19-12.46.00:883][570]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Structure/Floor_Wood.Floor_Wood
+[2020.02.19-12.46.00:887][570]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.02.19-12.46.02:271][692]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-12.46.02:282][692]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-12.46.05:584][995]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.46.05:731][ 11]LogActorFactory: Actor Factory created Floor_Bathroom
+[2020.02.19-12.46.05:732][ 11]LogActorFactory: Actor Factory created Floor_Carpet
+[2020.02.19-12.46.05:733][ 11]LogActorFactory: Actor Factory created Floor_Cleo_s
+[2020.02.19-12.46.05:733][ 11]LogActorFactory: Actor Factory created Floor_Wood
+[2020.02.19-12.46.06:824][121]LogActorFactory: Actor Factory created Floor_Bathroom
+[2020.02.19-12.46.06:840][121]LogActorFactory: Actor Factory created Floor_Carpet
+[2020.02.19-12.46.06:855][121]LogActorFactory: Actor Factory created Floor_Cleo_s
+[2020.02.19-12.46.06:871][121]LogActorFactory: Actor Factory created Floor_Wood
+[2020.02.19-12.46.09:543][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.46.37:587][325]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.02.19-12.47.08:167][670]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.19-12.47.09:542][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Desk+Drawers_Desk_Body)
+[2020.02.19-12.47.10:035][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Wood)
+[2020.02.19-12.47.13:076][170]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.48.09:785][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Wood)
+[2020.02.19-12.48.11:475][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Carpet)
+[2020.02.19-12.48.14:754][ 43]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Wood)
+[2020.02.19-12.48.16:024][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.48.20:846][654]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.48.21:596][730]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_Wood.M_Wood
+[2020.02.19-12.48.21:601][730]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.48.21:701][730]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.48.21:723][730]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.48.21:772][730]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.19-12.48.28:615][376]LogMaterialEditor: Applying material M_Wood
+[2020.02.19-12.48.31:741][376]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.48.31:839][376]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.48.31:929][376]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.48.31:986][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.02.19-12.48.31:994][376]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.19-12.49.03:960][376]TextureStreamingBuild: Display: Compiling optional shaders took 31.974 seconds.
+[2020.02.19-12.49.03:991][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.19-12.49.04:021][376]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.02.19-12.49.04:021][376]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2020.02.19-12.49.04:021][376]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2020.02.19-12.49.04:021][376]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.19-12.49.04:021][376]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.19-12.49.04:021][376]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.19-12.49.04:021][376]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.19-12.49.07:812][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.49.10:248][ 10]LogMaterialEditor: Applying material M_Wood
+[2020.02.19-12.49.10:679][ 10]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.49.10:763][ 10]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.49.10:786][ 10]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.49.10:832][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.19-12.49.10:840][ 10]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.19-12.49.29:180][ 10]TextureStreamingBuild: Display: Compiling optional shaders took 18.348 seconds.
+[2020.02.19-12.49.29:211][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2020.02.19-12.49.46:754][940]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (42.721 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.19-12.49.48:509][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.49.51:896][489]LogMaterialEditor: Applying material M_Wood
+[2020.02.19-12.49.52:326][489]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.49.52:411][489]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.49.52:435][489]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.49.52:481][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.02.19-12.49.52:489][489]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.19-12.50.11:788][489]TextureStreamingBuild: Display: Compiling optional shaders took 19.307 seconds.
+[2020.02.19-12.50.11:818][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.02.19-12.50.18:257][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.50.18:299][200]LogSlate: Window 'M_Wood' being destroyed
+[2020.02.19-12.50.18:302][200]LogSlate: Window 'M_Wood' being destroyed
+[2020.02.19-12.50.28:060][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.50.40:927][815]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.52.04:102][331]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.52.19:282][855]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Master_Clone_EG\Master\GART250\Textures\Seamless-Carpet-Dark-Texture.jpg)
+[2020.02.19-12.52.19:325][855]LogTexture: Display: Building textures: Seamless-Carpet-Dark-Texture (BGRA8, 894X894)
+[2020.02.19-12.52.31:178][129]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.52.37:630][805]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_Carpet.M_Carpet
+[2020.02.19-12.52.37:633][805]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.52.37:706][805]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.52.37:726][805]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.52.37:767][805]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.19-12.52.40:821][114]LogSlate: Window 'M_Carpet' being destroyed
+[2020.02.19-12.52.40:825][114]LogSlate: Window 'M_Carpet' being destroyed
+[2020.02.19-12.52.45:015][562]LogEditorViewport: Clicking Background
+[2020.02.19-12.52.45:819][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor_Carpet)
+[2020.02.19-12.52.47:211][800]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.52.49:734][ 79]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_Carpet.M_Carpet
+[2020.02.19-12.52.49:738][ 79]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.19-12.52.49:793][ 79]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.19-12.52.49:809][ 79]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.19-12.52.49:852][ 79]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.19-12.52.56:989][822]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.19-12.53.01:925][333]LogMaterialEditor: Applying material M_Carpet
+[2020.02.19-12.53.02:429][333]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.19-12.53.02:497][333]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.53.02:531][333]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.53.02:576][333]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.19-12.53.02:584][333]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.19-12.53.22:241][333]TextureStreamingBuild: Display: Compiling optional shaders took 19.665 seconds.
+[2020.02.19-12.53.22:271][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.19-12.53.22:292][333]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.02.19-12.53.22:292][333]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2020.02.19-12.53.22:292][333]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.19-12.53.22:292][333]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.19-12.53.22:292][333]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.19-12.53.22:292][333]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.19-12.53.22:469][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2020.02.19-12.53.22:470][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GART250" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/GART250_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.19-12.53.22:833][334]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/GART250_Auto8717298684EC77BFFBE912DAD36F42508.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/GART250_Auto8.umap'
+[2020.02.19-12.53.22:845][334]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GART250' took 0.401
+[2020.02.19-12.53.22:845][334]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.401
+[2020.02.19-12.53.22:847][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Wood] ([1] browsable assets)...
+[2020.02.19-12.53.22:859][334]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Wood.M_Wood]
+[2020.02.19-12.53.22:859][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Wood]
+[2020.02.19-12.53.23:051][334]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Wood_Auto84D76EC7F40BD27BE6C847F84F603630C.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/M_Wood_Auto8.uasset'
+[2020.02.19-12.53.23:052][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Structure/Floor_Bathroom] ([1] browsable assets)...
+[2020.02.19-12.53.23:065][334]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Structure/Floor_Bathroom.Floor_Bathroom]
+[2020.02.19-12.53.23:065][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Structure/Floor_Bathroom]
+[2020.02.19-12.53.23:086][334]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Floor_Bathroom_Auto897DCB8964F561C778B7827A16119C4FA.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Meshes/Structure/Floor_Bathroom_Auto8.uasset'
+[2020.02.19-12.53.23:086][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Structure/Floor_Carpet] ([1] browsable assets)...
+[2020.02.19-12.53.23:099][334]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Structure/Floor_Carpet.Floor_Carpet]
+[2020.02.19-12.53.23:099][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Structure/Floor_Carpet]
+[2020.02.19-12.53.23:118][334]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Floor_Carpet_Auto8031C24FE4279484282A6E299348741C0.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Meshes/Structure/Floor_Carpet_Auto8.uasset'
+[2020.02.19-12.53.23:119][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Structure/Floor_Cleo_s] ([1] browsable assets)...
+[2020.02.19-12.53.23:131][334]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Structure/Floor_Cleo_s.Floor_Cleo_s]
+[2020.02.19-12.53.23:131][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Structure/Floor_Cleo_s]
+[2020.02.19-12.53.23:151][334]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Floor_Cleo_s_Auto80039526841509D0795878E8CBA2B9372.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Meshes/Structure/Floor_Cleo_s_Auto8.uasset'
+[2020.02.19-12.53.23:151][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Meshes/Structure/Floor_Wood] ([1] browsable assets)...
+[2020.02.19-12.53.23:164][334]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Meshes/Structure/Floor_Wood.Floor_Wood]
+[2020.02.19-12.53.23:164][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Meshes/Structure/Floor_Wood]
+[2020.02.19-12.53.23:185][334]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Floor_Wood_Auto89EEAA05A4076C735CEEEF3B740FF2C45.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Meshes/Structure/Floor_Wood_Auto8.uasset'
+[2020.02.19-12.53.23:186][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Seamless-Carpet-Dark-Texture] ([1] browsable assets)...
+[2020.02.19-12.53.23:195][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Seamless-Carpet-Dark-Texture.Seamless-Carpet-Dark-Texture]
+[2020.02.19-12.53.23:195][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Seamless-Carpet-Dark-Texture]
+[2020.02.19-12.53.23:226][334]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Seamless-Carpet-Dark-Texture_AutE17C31004BFCD1577906A582D6724C90.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/Seamless-Carpet-Dark-Texture_Auto8.uasset'
+[2020.02.19-12.53.23:226][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Carpet] ([1] browsable assets)...
+[2020.02.19-12.53.23:238][334]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Carpet.M_Carpet]
+[2020.02.19-12.53.23:238][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Carpet]
+[2020.02.19-12.53.23:261][334]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Carpet_Auto89D8D10C04D9226FC378E6CA99E171209.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/M_Carpet_Auto8.uasset'
+[2020.02.19-12.53.23:262][334]LogFileHelpers: Auto-saving content packages took 0.415
+[2020.02.19-12.53.36:594][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.53.41:863][347]LogMaterialEditor: Applying material M_Carpet
+[2020.02.19-12.53.44:179][347]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.19-12.53.44:268][347]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.53.44:322][347]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.53.44:365][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.02.19-12.53.44:373][347]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.19-12.54.03:789][347]TextureStreamingBuild: Display: Compiling optional shaders took 19.424 seconds.
+[2020.02.19-12.54.03:819][347]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.02.19-12.54.36:611][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.54.46:756][660]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (42.906 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.02.19-12.54.50:198][  4]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.55.07:274][687]LogMaterialEditor: Applying material M_Carpet
+[2020.02.19-12.55.07:751][687]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2020.02.19-12.55.07:856][687]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.55.07:889][687]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.55.08:052][687]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.02.19-12.55.08:060][687]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.19-12.55.21:553][687]TextureStreamingBuild: Display: Compiling optional shaders took 13.501 seconds.
+[2020.02.19-12.55.21:584][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2020.02.19-12.55.24:826][ 24]LogSlate: Window 'M_Carpet' being destroyed
+[2020.02.19-12.55.24:829][ 24]LogSlate: Window 'M_Carpet' being destroyed
+[2020.02.19-12.55.42:704][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.55.42:861][107]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_Carpet.M_Carpet
+[2020.02.19-12.55.42:865][107]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.55.42:965][107]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.55.42:981][107]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.55.43:027][107]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.19-12.55.49:076][717]LogMaterialEditor: Applying material M_Carpet
+[2020.02.19-12.55.49:534][717]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.55.49:602][717]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.55.49:627][717]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-12.55.49:670][717]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.02.19-12.55.49:678][717]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.19-12.56.06:044][717]TextureStreamingBuild: Display: Compiling optional shaders took 16.375 seconds.
+[2020.02.19-12.56.06:076][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.19-12.56.06:103][717]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.02.19-12.56.06:103][717]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2020.02.19-12.56.06:103][717]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.19-12.56.06:103][717]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.19-12.56.06:103][717]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.19-12.56.06:103][717]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.19-12.56.26:339][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.56.26:391][280]LogSlate: Window 'M_Carpet' being destroyed
+[2020.02.19-12.56.26:395][280]LogSlate: Window 'M_Carpet' being destroyed
+[2020.02.19-12.58.36:315][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.58.40:508][214]LogEditorFactories: Performing atomic reimport of [D:/Master_Clone_EG/Master/GART250/Textures/light-wood-tile-hr-full-resolution-preview-demo-textures-architecture-wood-floors-parquet-light-parquet-texture-seamless.jpg]
+[2020.02.19-12.58.40:509][214]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/Master_Clone_EG/Master/GART250/Textures/light-wood-tile-hr-full-resolution-preview-demo-textures-architecture-wood-floors-parquet-light-parquet-texture-seamless.jpg)
+[2020.02.19-12.58.40:544][214]LogTexture: Display: Building textures: light-wood-tile-hr-full-resolution-preview-demo-textures-architecture-wood-floors-parquet-light-parquet-texture-seamless (BGRA8, 662X662)
+[2020.02.19-12.58.40:575][214]LogEditorFactories: -- imported successfully
+[2020.02.19-12.58.46:161][801]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-12.58.46:447][834]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_Wood.M_Wood
+[2020.02.19-12.58.46:451][834]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.02.19-12.58.46:555][834]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.02.19-12.58.46:873][834]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.02.19-12.58.46:921][834]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.19-12.59.01:964][450]MaterialEditorStats: Base pass shader: 111 instructions
+[2020.02.19-12.59.01:964][450]MaterialEditorStats: Base pass shader with Surface Lightmap: 139 instructions
+[2020.02.19-12.59.01:964][450]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
+[2020.02.19-12.59.01:964][450]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.19-12.59.01:964][450]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.19-12.59.01:964][450]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.19-12.59.01:964][450]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.19-12.59.10:119][243]LogMaterialEditor: Applying material M_Wood
+[2020.02.19-12.59.10:586][243]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2020.02.19-12.59.10:671][243]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.59.10:720][243]LogMaterial: Display: Missing cached shader map for material M_Wood, compiling. 
+[2020.02.19-12.59.10:774][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.19-12.59.10:782][243]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.02.19-12.59.29:154][243]TextureStreamingBuild: Display: Compiling optional shaders took 18.379 seconds.
+[2020.02.19-12.59.29:182][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2020.02.19-12.59.31:649][479]LogSlate: Window 'M_Wood' being destroyed
+[2020.02.19-12.59.31:653][479]LogSlate: Window 'M_Wood' being destroyed
+[2020.02.19-12.59.41:155][591]MapCheck: New page: Map Check
+[2020.02.19-12.59.41:165][591]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-12.59.41:168][591]LightingResults: New page: Lighting Build - 19 Feb 2020 12:59:41
+[2020.02.19-12.59.41:179][591]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.02.19-12.59.41:185][591]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.02.19-12.59.41:185][591]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.02.19-12.59.41:187][591]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.02.19-12.59.41:187][591]LogSwarmInterface: [TryOpenConnection] Local Process ID is 3564
+[2020.02.19-12.59.45:703][591]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.02.19-12.59.45:703][591]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.02.19-12.59.45:703][591]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.02.19-12.59.45:703][591]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.02.19-12.59.45:703][591]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.02.19-12.59.47:613][591]LogEditorBuildUtils: Build time 0:06
+[2020.02.19-12.59.47:714][592]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood, compiling. 
+[2020.02.19-12.59.47:722][592]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Wood, compiling. 
+[2020.02.19-12.59.47:744][593]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Carpet, compiling. 
+[2020.02.19-12.59.47:752][593]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Carpet, compiling. 
+[2020.02.19-12.59.51:390][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.02.19-13.00.16:544][794]LightingResults: Warning: ConferenceRoom_pPlane42 Object has overlapping UVs.
+[2020.02.19-13.00.16:544][794]LightingResults: ConferenceRoom_pPlane42 Lightmap UV are overlapping by 30.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.02.19-13.00.16:975][830]Job is a success!
+[2020.02.19-13.00.17:171][831]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-13.00.17:215][831]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2020.02.19-13.00.17:215][831]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.02.19-13.00.17:215][831]LogVolumetricLightmapImport:      BrickData 30x5x5 = 0.0Mb
+[2020.02.19-13.00.17:215][831]LogVolumetricLightmapImport:      Bricks at Level
+[2020.02.19-13.00.17:215][831]LogVolumetricLightmapImport:          0: 16.7% covering 100.0% of volume
+[2020.02.19-13.00.17:215][831]LogVolumetricLightmapImport:          1: 16.7% covering 1.6% of volume
+[2020.02.19-13.00.17:215][831]LogVolumetricLightmapImport:          2: 66.7% covering 0.1% of volume
+[2020.02.19-13.00.19:898][831]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.02.19-13.00.19:898][831]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.02.19-13.00.19:898][831]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.02.19-13.00.19:898][831]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.02.19-13.00.19:898][831]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.02.19-13.00.19:898][831]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.02.19-13.00.19:898][831]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.02.19-13.00.19:898][831]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.02.19-13.00.19:921][831]LogStaticLightingSystem: GART250_BuiltData storing lightmap data for 326 meshes in 4 LightmapResourceClusters (81.5 Meshes per cluster).
+[2020.02.19-13.00.19:923][831]LogMaterial: Warning: Material /Game/Materials/M_Carpet.M_Carpet needed to have new flag set bUsedWithStaticLighting !
+[2020.02.19-13.00.19:934][831]LogMaterial: Display: Missing cached shader map for material M_Carpet, compiling. 
+[2020.02.19-13.00.19:984][831]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.19-13.00.19:988][831]LogStaticLightingSystem: Illumination: 38.7 sec (2.39 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.02.19-13.00.19:988][831]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (6.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.02.19-13.00.19:988][831]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.02.19-13.00.20:720][831]Lightmass on 052TGADS-60361: 27.8 sec total, 1.91 sec importing, 183 ms setup, 3.81 sec photons, 21.8 sec processing, 0 ms extra exporting [326/326 mappings]. Threads: 1:27 min total, 55.5 sec processing.
+[2020.02.19-13.00.20:721][831]DumpUnbuiltLightIteractions
+[2020.02.19-13.00.20:721][831]Lights with unbuilt interactions: 0
+[2020.02.19-13.00.20:721][831]
+[2020.02.19-13.00.20:721][831]Primitives with unbuilt interactions: 0
+[2020.02.19-13.00.29:319][832]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.02.19-13.00.29:320][832]MapCheck: New page: GART250 - 19 Feb 2020 13:00:29
+[2020.02.19-13.00.29:321][832]MapCheck: Warning: ConferenceRoom_pPlane41_8 Static mesh actor has NULL StaticMesh property 
+[2020.02.19-13.00.29:323][832]MapCheck: Map check complete: 0 Error(s), 1 Warning(s), took 3.669ms to complete.
+[2020.02.19-13.00.33:489][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-13.00.33:587][328]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-13.00.33:590][328]LogSlate: Window 'Message Log' being destroyed
+[2020.02.19-13.00.46:118][811]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-13.00.47:181][924]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-13.01.27:196][595]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-13.01.27:200][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GART250" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.19-13.01.27:229][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2020.02.19-13.01.27:604][595]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/GART2505AF4627C401223DCEDDD88A7C947D71F.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250.umap'
+[2020.02.19-13.01.27:653][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GART250_BuiltData" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250_BuiltData.uasset" SILENT=true
+[2020.02.19-13.01.28:104][595]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/GART250_BuiltData79CAABE540280522BA918F936F2841B4.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250_BuiltData.uasset'
+[2020.02.19-13.01.28:884][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.19-13.01.28:993][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.02.19-13.01.30:023][693]LogSlate: Window 'Save Content' being destroyed
+[2020.02.19-13.01.30:035][693]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.19-13.01.30:063][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Monitor_1D07D8E244B32F972619242889CA858DA.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Monitor/Monitor_1.uasset'
+[2020.02.19-13.01.30:089][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Monitor_27E4D03A3458E5F2888526DAA0D57D3EB.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Monitor/Monitor_2.uasset'
+[2020.02.19-13.01.30:335][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Monitor_Monitor2_BaseColor446491F9461EB59DFEEE2AB013B14B08.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Monitor/Monitor_Monitor2_BaseColor.uasset'
+[2020.02.19-13.01.30:590][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Monitor_Monitor_BaseColorDF7F38A045964261F3E527B4D3CAC2EA.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Monitor/Monitor_Monitor_BaseColor.uasset'
+[2020.02.19-13.01.31:147][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Monitor_Monitor_NormalD158D94549F3DE8F9FEE56810A91731B.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Monitor/Monitor_Monitor_Normal.uasset'
+[2020.02.19-13.01.31:389][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Monitor_Monitor_OcclusionRoughne2361709E47A721EC222ED8851D426D79.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Monitor/Monitor_Monitor_OcclusionRoughnessMetallic.uasset'
+[2020.02.19-13.01.31:408][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Assets/PC/PC" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/PC/PC.uasset" SILENT=true
+[2020.02.19-13.01.31:420][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/PCA013C4EF4CA097A95249EBBF1B6C4247.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/PC/PC.uasset'
+[2020.02.19-13.01.31:499][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/PC_PC_BaseColorBF9B5DB4408022E6954538B9412461C2.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/PC/PC_PC_BaseColor.uasset'
+[2020.02.19-13.01.31:558][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/PC_PC_Emissive399406144413619B818818AB3BCAF690.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/PC/PC_PC_Emissive.uasset'
+[2020.02.19-13.01.31:571][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Assets/PC/PC_PC_Normal" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/PC/PC_PC_Normal.uasset" SILENT=true
+[2020.02.19-13.01.31:748][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/PC_PC_Normal137F3FEA4BFAEF0438BAFD8AA2A07501.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/PC/PC_PC_Normal.uasset'
+[2020.02.19-13.01.31:844][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/PC_PC_OcclusionRoughnessMetallic5A1EA0CC4394D8B17AAD71849347E447.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/PC/PC_PC_OcclusionRoughnessMetallic.uasset'
+[2020.02.19-13.01.31:891][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Assets/Protein/Bottle" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Protein/Bottle.uasset" SILENT=true
+[2020.02.19-13.01.31:902][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Bottle12FFF37F49067C5A897307A50D1E460D.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Protein/Bottle.uasset'
+[2020.02.19-13.01.31:916][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Assets/Protein/Pack" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Protein/Pack.uasset" SILENT=true
+[2020.02.19-13.01.31:927][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/PackEAB322064F46006D050D07AF02EF2C71.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Protein/Pack.uasset'
+[2020.02.19-13.01.31:992][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/ProteinBottle_ProteinBottle_Base7AF9E7BA47070261956594975D3E1A78.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Protein/ProteinBottle_ProteinBottle_BaseColor.uasset'
+[2020.02.19-13.01.32:181][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/ProteinBottle_ProteinBottle_Norm16EF813245D12D2FDFE3C2896EEFB230.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Protein/ProteinBottle_ProteinBottle_Normal.uasset'
+[2020.02.19-13.01.32:285][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/ProteinBottle_ProteinBottle_OcclDB1D284841B97F2A8DC9CEB547CE207B.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Protein/ProteinBottle_ProteinBottle_OcclusionRoughnessMetallic.uasset'
+[2020.02.19-13.01.32:413][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/ProteinPack8D0718B1456C0BA17FE91C985F7451F8.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/Protein/ProteinPack.uasset'
+[2020.02.19-13.01.32:438][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Assets/TV/TV" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/TV/TV.uasset" SILENT=true
+[2020.02.19-13.01.32:503][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/TV54A9BC384779DBC5086B47841F81BAB9.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/TV/TV.uasset'
+[2020.02.19-13.01.32:857][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/TV_TV_BaseColorFC3E97E44E3715A440D8F3A20B3BFB65.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/TV/TV_TV_BaseColor.uasset'
+[2020.02.19-13.01.32:876][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Assets/TV/TV_TV_Normal" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/TV/TV_TV_Normal.uasset" SILENT=true
+[2020.02.19-13.01.33:450][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/TV_TV_Normal00635BEA4D7D49ADCFE4078D348DE3FC.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/TV/TV_TV_Normal.uasset'
+[2020.02.19-13.01.33:660][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/TV_TV_OcclusionRoughnessMetallicEFC8DE72450880117D1A4E9134510F6F.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Assets/TV/TV_TV_OcclusionRoughnessMetallic.uasset'
+[2020.02.19-13.01.33:673][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Ceiling/DC_L/DC_L" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Ceiling/DC_L/DC_L.uasset" SILENT=true
+[2020.02.19-13.01.33:961][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/DC_LE602CAC248D181E31ACF40A4A875CA54.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Ceiling/DC_L/DC_L.uasset'
+[2020.02.19-13.01.33:978][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Ceiling/DC_L/DC_L_Inst" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Ceiling/DC_L/DC_L_Inst.uasset" SILENT=true
+[2020.02.19-13.01.33:989][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/DC_L_InstC21C0DFB4705858B71B6A9A2F9F70E40.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Ceiling/DC_L/DC_L_Inst.uasset'
+[2020.02.19-13.01.34:002][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Furniture/Chair/Chair" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/Chair.uasset" SILENT=true
+[2020.02.19-13.01.34:083][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Chair27EED5F245BB9AB29A4F21A19BBC3729.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/Chair.uasset'
+[2020.02.19-13.01.34:132][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Chair_MeshF896E241458A1B5CB211959673E72D14.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/Chair_Mesh.uasset'
+[2020.02.19-13.01.34:147][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Furniture/Desk/Deks" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Desk/Deks.uasset" SILENT=true
+[2020.02.19-13.01.34:845][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Deks2A4B87BF47BAADB100443383EF64461D.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Desk/Deks.uasset'
+[2020.02.19-13.01.35:155][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/light-wood-tile-hr-full-resolutiE76668704C215A1CFC8E9C8A8CF30BED.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/light-wood-tile-hr-full-resolution-preview-demo-textures-architecture-wood-floors-parquet-light-parquet-texture-seamless.uasset'
+[2020.02.19-13.01.35:203][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Carpet" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/M_Carpet.uasset" SILENT=true
+[2020.02.19-13.01.35:228][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Carpet7FFC9DA245C12A0D952947B6F686AA21.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/M_Carpet.uasset'
+[2020.02.19-13.01.35:270][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Wood" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/M_Wood.uasset" SILENT=true
+[2020.02.19-13.01.35:313][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Wood5BB04DB34E61F41E0400BF8E55D4FD25.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/M_Wood.uasset'
+[2020.02.19-13.01.35:485][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Seamless-Carpet-Dark-TextureB32276BF43C3C4247AD89F8A9ECC171A.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Seamless-Carpet-Dark-Texture.uasset'
+[2020.02.19-13.01.35:499][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Assets/Beading" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/Beading.uasset" SILENT=true
+[2020.02.19-13.01.35:512][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/BeadingDCE3EB794EFBEBEAADFD72839DF0ECC0.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/Beading.uasset'
+[2020.02.19-13.01.35:561][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/MagazineFile_pCube6_Room7DFE5C4C40FF188A2D80568EC7C31219.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/MagazineFile_pCube6_Room.uasset'
+[2020.02.19-13.01.35:596][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Assets/PC_PC6" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/PC_PC6.uasset" SILENT=true
+[2020.02.19-13.01.35:613][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/PC_PC68E2356AC47E08D87313C2392B2F495E3.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/PC_PC6.uasset'
+[2020.02.19-13.01.35:627][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Assets/ProteinBottle" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/ProteinBottle.uasset" SILENT=true
+[2020.02.19-13.01.35:643][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/ProteinBottle722C74CB43BED70B368C4DACF121899D.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/ProteinBottle.uasset'
+[2020.02.19-13.01.35:660][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Assets/ProteinPack" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/ProteinPack.uasset" SILENT=true
+[2020.02.19-13.01.35:672][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/ProteinPackD8E427524091278E9D4F918686E0D741.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/ProteinPack.uasset'
+[2020.02.19-13.01.35:684][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Assets/SM__Monitor_1" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/SM__Monitor_1.uasset" SILENT=true
+[2020.02.19-13.01.35:698][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM__Monitor_10388369F4F4A285ABF55ED988D6F8454.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/SM__Monitor_1.uasset'
+[2020.02.19-13.01.35:710][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Assets/TV" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/TV.uasset" SILENT=true
+[2020.02.19-13.01.35:722][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/TV425E71B7484E26B44C59A688393D8EDC.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Assets/TV.uasset'
+[2020.02.19-13.01.35:773][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Desk+Drawers_Desk_BodyA95C50984BEE02036C1A6792AC393D2F.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Furniture/SM_Desk+Drawers_Desk_Body.uasset'
+[2020.02.19-13.01.35:831][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Desk+Drawers_Desk_Drawer0AA1818C49D3F11D2DC44E98366ADF15.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Furniture/SM_Desk+Drawers_Desk_Drawer.uasset'
+[2020.02.19-13.01.35:876][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Desk+Drawers_Desk_Drawer1EA9189CB4F295376B30175B9A6526249.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Furniture/SM_Desk+Drawers_Desk_Drawer1.uasset'
+[2020.02.19-13.01.35:916][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Desk+Drawers_Desk_Drawer2C99D2D9043956F90861084A451E6F012.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Furniture/SM_Desk+Drawers_Desk_Drawer2.uasset'
+[2020.02.19-13.01.35:930][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Structure/Floor_Bathroom" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Structure/Floor_Bathroom.uasset" SILENT=true
+[2020.02.19-13.01.35:942][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Floor_BathroomC7F7165D471B357915AB438F34B3DCE2.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Structure/Floor_Bathroom.uasset'
+[2020.02.19-13.01.35:957][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Structure/Floor_Carpet" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Structure/Floor_Carpet.uasset" SILENT=true
+[2020.02.19-13.01.35:969][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Floor_CarpetCD6458154346CD728985D7B883605BD4.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Structure/Floor_Carpet.uasset'
+[2020.02.19-13.01.35:985][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Structure/Floor_Cleo_s" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Structure/Floor_Cleo_s.uasset" SILENT=true
+[2020.02.19-13.01.36:002][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Floor_Cleo_s7DD1099C461DA1D94F5C87B77B7F192F.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Structure/Floor_Cleo_s.uasset'
+[2020.02.19-13.01.36:018][693]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/Structure/Floor_Wood" FILE="D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Structure/Floor_Wood.uasset" SILENT=true
+[2020.02.19-13.01.36:040][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Floor_Wood27DC46634100C16C6AB287AC4EBE6116.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Structure/Floor_Wood.uasset'
+[2020.02.19-13.01.36:152][693]LogSavePackage: Moving 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_DropCeiling_Light50407CCA413C96069A286EAC4083D2D0.tmp' to 'D:/Master_Clone_EG/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Meshes/Structure/SM_DropCeiling_Light.uasset'
+[2020.02.19-13.01.36:265][693]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2020.02.19-13.01.36:266][693]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.19-13.01.36:845][694]Cmd: QUIT_EDITOR
+[2020.02.19-13.01.37:210][694]LogExit: Preparing to exit.
+[2020.02.19-13.01.38:420][694]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.02.19-13.01.38:631][694]LogExit: Editor shut down
+[2020.02.19-13.01.38:633][694]LogExit: Transaction tracking system shut down
+[2020.02.19-13.01.40:666][694]LogExit: Object subsystem successfully closed.
+[2020.02.19-13.01.40:785][694]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.19-13.01.40:889][694]LogD3D11RHI: Shutdown
+[2020.02.19-13.01.40:889][694]LogD3D11RHI: CleanupD3DDevice
+[2020.02.19-13.01.40:912][694]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.19-13.01.40:912][694]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.19-13.01.40:924][694]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.19-13.01.40:924][694]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.19-13.01.40:924][694]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.02.19-13.01.40:924][694]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.19-13.01.40:930][694]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.19-13.01.41:496][694]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (650)
+[2020.02.19-13.01.41:496][694]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (648)
+[2020.02.19-13.01.41:496][694]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (646)
+[2020.02.19-13.01.41:496][694]LogModuleManager: Shutting down and abandoning module MeshBuilder (644)
+[2020.02.19-13.01.41:496][694]LogModuleManager: Shutting down and abandoning module StatsViewer (642)
+[2020.02.19-13.01.41:508][694]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2020.02.19-13.01.41:508][694]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2020.02.19-13.01.41:508][694]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2020.02.19-13.01.41:522][694]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2020.02.19-13.01.41:522][694]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2020.02.19-13.01.41:522][694]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2020.02.19-13.01.41:530][694]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.02.19-13.01.41:683][694]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.02.19-13.01.41:749][694]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.02.19-13.01.41:749][694]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.02.19-13.01.41:749][694]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.02.19-13.01.41:749][694]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.02.19-13.01.41:749][694]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.02.19-13.01.41:749][694]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.02.19-13.01.41:749][694]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.02.19-13.01.41:839][694]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.02.19-13.01.41:856][694]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.02.19-13.01.41:857][694]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.02.19-13.01.41:857][694]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.02.19-13.01.41:866][694]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.02.19-13.01.41:888][694]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.02.19-13.01.41:955][694]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.02.19-13.01.41:955][694]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.02.19-13.01.41:956][694]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.02.19-13.01.41:973][694]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.02.19-13.01.41:973][694]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.02.19-13.01.41:973][694]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.02.19-13.01.41:973][694]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.02.19-13.01.41:973][694]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.02.19-13.01.41:985][694]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.02.19-13.01.41:986][694]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.02.19-13.01.41:987][694]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.02.19-13.01.42:022][694]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.02.19-13.01.42:023][694]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.02.19-13.01.42:023][694]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.02.19-13.01.42:058][694]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.02.19-13.01.42:060][694]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.02.19-13.01.42:096][694]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.02.19-13.01.42:131][694]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.02.19-13.01.42:286][694]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.02.19-13.01.42:286][694]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.02.19-13.01.42:286][694]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.02.19-13.01.42:286][694]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.02.19-13.01.42:286][694]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.02.19-13.01.42:908][694]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.02.19-13.01.42:908][694]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.02.19-13.01.42:908][694]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.02.19-13.01.42:908][694]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.02.19-13.01.42:908][694]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.02.19-13.01.42:908][694]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.02.19-13.01.42:947][694]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.02.19-13.01.42:953][694]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.02.19-13.01.43:020][694]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.02.19-13.01.43:055][694]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.02.19-13.01.43:056][694]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.02.19-13.01.43:094][694]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.02.19-13.01.43:122][694]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.02.19-13.01.43:133][694]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.02.19-13.01.43:133][694]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.02.19-13.01.43:133][694]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.02.19-13.01.43:134][694]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.02.19-13.01.43:134][694]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.02.19-13.01.43:134][694]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.02.19-13.01.43:155][694]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.02.19-13.01.43:162][694]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.02.19-13.01.43:171][694]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.02.19-13.01.43:178][694]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.02.19-13.01.43:244][694]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.02.19-13.01.43:280][694]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.02.19-13.01.43:282][694]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.02.19-13.01.43:356][694]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.02.19-13.01.43:356][694]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.02.19-13.01.43:356][694]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.02.19-13.01.43:356][694]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.02.19-13.01.43:359][694]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.02.19-13.01.43:389][694]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.02.19-13.01.43:390][694]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.02.19-13.01.43:390][694]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.02.19-13.01.43:474][694]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.02.19-13.01.43:474][694]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.02.19-13.01.43:475][694]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.02.19-13.01.43:475][694]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.02.19-13.01.43:475][694]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.02.19-13.01.43:475][694]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.02.19-13.01.43:475][694]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.02.19-13.01.43:476][694]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.02.19-13.01.43:476][694]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.02.19-13.01.43:477][694]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.02.19-13.01.43:477][694]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.02.19-13.01.43:477][694]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.02.19-13.01.43:477][694]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.02.19-13.01.43:478][694]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.02.19-13.01.43:478][694]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.02.19-13.01.43:478][694]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.02.19-13.01.43:478][694]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.02.19-13.01.43:478][694]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.02.19-13.01.43:478][694]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.02.19-13.01.43:478][694]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.02.19-13.01.43:478][694]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.02.19-13.01.43:479][694]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.02.19-13.01.43:479][694]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.02.19-13.01.43:498][694]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.02.19-13.01.43:502][694]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.02.19-13.01.43:790][694]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.02.19-13.01.43:792][694]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.02.19-13.01.43:792][694]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.02.19-13.01.43:809][694]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.02.19-13.01.43:810][694]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.02.19-13.01.43:817][694]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.02.19-13.01.43:817][694]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.02.19-13.01.43:817][694]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.02.19-13.01.43:820][694]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.02.19-13.01.43:820][694]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.02.19-13.01.43:833][694]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.02.19-13.01.43:833][694]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.02.19-13.01.43:833][694]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.02.19-13.01.43:833][694]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.02.19-13.01.43:841][694]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.02.19-13.01.43:846][694]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.02.19-13.01.43:846][694]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.02.19-13.01.43:846][694]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.02.19-13.01.43:846][694]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.02.19-13.01.43:846][694]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.02.19-13.01.43:851][694]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.02.19-13.01.43:855][694]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.02.19-13.01.43:855][694]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.02.19-13.01.43:855][694]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.02.19-13.01.43:855][694]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.02.19-13.01.43:869][694]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.02.19-13.01.43:869][694]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.02.19-13.01.43:869][694]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.02.19-13.01.43:869][694]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.02.19-13.01.43:869][694]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.02.19-13.01.43:869][694]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.02.19-13.01.43:869][694]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.02.19-13.01.43:869][694]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.02.19-13.01.43:870][694]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.02.19-13.01.43:893][694]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.02.19-13.01.43:893][694]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.02.19-13.01.43:909][694]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.02.19-13.01.43:910][694]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.02.19-13.01.43:911][694]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.02.19-13.01.43:911][694]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.02.19-13.01.43:911][694]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.02.19-13.01.43:911][694]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.02.19-13.01.43:911][694]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.02.19-13.01.43:911][694]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.02.19-13.01.43:919][694]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.02.19-13.01.43:947][694]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.02.19-13.01.43:975][694]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.02.19-13.01.43:976][694]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.02.19-13.01.43:976][694]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.02.19-13.01.43:976][694]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.02.19-13.01.43:976][694]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.02.19-13.01.43:976][694]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.02.19-13.01.43:976][694]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.02.19-13.01.43:976][694]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.02.19-13.01.43:976][694]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.02.19-13.01.43:977][694]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.02.19-13.01.43:978][694]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.02.19-13.01.43:978][694]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.02.19-13.01.43:978][694]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.02.19-13.01.43:978][694]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.02.19-13.01.43:978][694]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.02.19-13.01.43:978][694]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.02.19-13.01.44:123][694]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.02.19-13.01.44:226][694]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.02.19-13.01.44:226][694]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.02.19-13.01.44:226][694]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.02.19-13.01.44:238][694]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.02.19-13.01.44:238][694]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.02.19-13.01.44:287][694]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.19-13.01.44:288][694]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.02.19-13.01.44:288][694]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.02.19-13.01.44:288][694]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.02.19-13.01.44:288][694]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.02.19-13.01.44:288][694]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.02.19-13.01.44:288][694]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.02.19-13.01.44:288][694]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.02.19-13.01.44:339][694]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.02.19-13.01.44:361][694]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.02.19-13.01.44:393][694]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.02.19-13.01.44:393][694]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.02.19-13.01.44:393][694]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.02.19-13.01.44:498][694]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.02.19-13.01.44:499][694]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.02.19-13.01.44:503][694]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.02.19-13.01.44:503][694]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.02.19-13.01.44:503][694]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.02.19-13.01.44:503][694]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.02.19-13.01.44:552][694]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.02.19-13.01.44:553][694]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.02.19-13.01.44:565][694]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.02.19-13.01.44:565][694]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.02.19-13.01.44:565][694]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.02.19-13.01.44:574][694]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.02.19-13.01.44:574][694]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.02.19-13.01.44:574][694]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.02.19-13.01.44:574][694]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.02.19-13.01.44:575][694]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.02.19-13.01.44:589][694]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.02.19-13.01.44:589][694]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.02.19-13.01.44:607][694]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.02.19-13.01.44:607][694]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.02.19-13.01.44:624][694]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.02.19-13.01.44:631][694]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.02.19-13.01.44:631][694]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.02.19-13.01.44:632][694]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.02.19-13.01.44:649][694]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.02.19-13.01.44:649][694]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.02.19-13.01.44:653][694]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.02.19-13.01.44:653][694]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.02.19-13.01.44:666][694]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.02.19-13.01.44:667][694]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.02.19-13.01.44:667][694]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.02.19-13.01.44:667][694]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.02.19-13.01.44:667][694]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.02.19-13.01.44:667][694]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.02.19-13.01.44:667][694]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.02.19-13.01.44:667][694]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.02.19-13.01.44:667][694]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.02.19-13.01.44:667][694]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.02.19-13.01.44:667][694]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.02.19-13.01.44:667][694]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.02.19-13.01.44:673][694]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.02.19-13.01.44:688][694]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.02.19-13.01.44:697][694]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.02.19-13.01.44:698][694]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.02.19-13.01.44:794][694]LogDerivedDataCache: Shutdown
+[2020.02.19-13.01.44:794][694]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.02.19-13.01.44:794][694]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.02.19-13.01.44:795][694]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.02.19-13.01.44:811][694]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.02.19-13.01.44:818][694]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.02.19-13.01.44:819][694]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.02.19-13.01.44:827][694]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.02.19-13.01.44:832][694]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.02.19-13.01.44:832][694]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.02.19-13.01.44:832][694]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.02.19-13.01.44:833][694]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.02.19-13.01.44:843][694]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.02.19-13.01.44:843][694]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.02.19-13.01.44:843][694]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.02.19-13.01.44:843][694]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.02.19-13.01.44:852][694]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.02.19-13.01.44:852][694]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.02.19-13.01.44:853][694]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.02.19-13.01.44:890][694]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.02.19-13.01.44:890][694]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.02.19-13.01.44:899][694]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.02.19-13.01.44:899][694]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.02.19-13.01.44:907][694]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.02.19-13.01.44:943][694]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.02.19-13.01.44:943][694]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.02.19-13.01.44:964][694]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.02.19-13.01.44:964][694]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.02.19-13.01.45:001][694]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.02.19-13.01.45:001][694]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.02.19-13.01.45:001][694]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.02.19-13.01.45:001][694]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.02.19-13.01.45:002][694]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.02.19-13.01.45:002][694]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.02.19-13.01.45:002][694]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.02.19-13.01.45:002][694]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.02.19-13.01.45:003][694]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.02.19-13.01.45:003][694]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.02.19-13.01.45:003][694]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.02.19-13.01.45:003][694]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.02.19-13.01.45:004][694]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.02.19-13.01.45:004][694]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.02.19-13.01.45:023][694]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.19-13.01.45:023][694]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.02.19-13.01.45:034][694]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.02.19-13.01.45:034][694]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.02.19-13.01.45:034][694]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.02.19-13.01.45:034][694]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.02.19-13.01.45:044][694]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.02.19-13.01.45:048][694]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.02.19-13.01.45:098][694]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.02.19-13.01.45:098][694]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.19-13.01.45:098][694]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE8D20871-4E27-E6AD-4877-80BDD309B933%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=38b105804f59edac72e4e1a05fea524a%7C%7Cefbef565-0da4-4ba3-9624-99669de04f7c&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.19-13.01.45:116][694]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.02.19-13.01.45:135][694]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.02.19-13.01.45:140][694]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.02.19-13.01.45:146][694]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.02.19-13.01.45:147][694]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.02.19-13.01.45:147][694]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.19-13.01.45:161][694]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.19-13.01.45:162][694]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.19-13.01.45:206][694]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.19-13.01.45:206][694]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.19-13.01.45:206][694]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.19-13.01.45:206][694]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.19-13.01.45:243][694]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.19-13.01.45:265][694]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.19-13.01.45:265][694]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.19-13.01.45:279][694]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.19-13.01.45:279][694]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.19-13.01.45:279][694]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.19-13.01.45:279][694]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.19-13.01.45:289][694]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.19-13.01.45:289][694]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.19-13.01.45:290][694]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.19-13.01.45:290][694]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.19-13.01.45:300][694]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.19-13.01.45:319][694]LogExit: Exiting.
+[2020.02.19-13.01.45:359][694]Log file closed, 02/19/20 13:01:45
