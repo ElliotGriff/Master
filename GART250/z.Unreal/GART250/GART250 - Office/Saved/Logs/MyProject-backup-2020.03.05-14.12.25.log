@@ -1,0 +1,1454 @@
+﻿Log file open, 03/05/20 12:24:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.312644
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: NVIDIA GeForce GTX 750 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Engine.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:512]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Engine.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Engine.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Engine.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Engine.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Engine.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-12.24.20:862][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-12.24.20:862][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-12.24.20:862][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.03.05-12.24.20:908][  0]LogHAL: Display: Platform has ~ 16 GB [17115729920 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.03.05-12.24.20:908][  0]LogInit: Going up to parent DeviceProfile []
+[2020.03.05-12.24.20:908][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Scalability.ini]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.03.05-12.24.20:908][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Config/Windows/Engine.ini]
+[2020.03.05-12.24.20:923][  0]LogInit: Computer: 052TGADS-59625
+[2020.03.05-12.24.20:923][  0]LogInit: User: EG215252
+[2020.03.05-12.24.20:923][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.03.05-12.24.20:923][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.03.05-12.24.20:923][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.03.05-12.24.20:923][  0]LogMemory: Platform Memory Stats for Windows
+[2020.03.05-12.24.20:923][  0]LogMemory: Process Physical Memory: 96.79 MB used, 96.79 MB peak
+[2020.03.05-12.24.20:923][  0]LogMemory: Process Virtual Memory: 89.04 MB used, 89.04 MB peak
+[2020.03.05-12.24.20:923][  0]LogMemory: Physical Memory: 7830.75 MB used,  8492.08 MB free, 16322.83 MB total
+[2020.03.05-12.24.20:923][  0]LogMemory: Virtual Memory: 4657.82 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.03.05-12.24.20:959][  0]LogInit: Using OS detected language (en-US).
+[2020.03.05-12.24.20:959][  0]LogInit: Using OS detected locale (en-GB).
+[2020.03.05-12.24.20:961][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.03.05-12.24.21:148][  0]LogInit: Setting process to per monitor DPI aware
+[2020.03.05-12.24.21:291][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.03.05-12.24.21:291][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.03.05-12.24.23:994][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-12.24.23:995][  0]LogD3D11RHI: D3D11 adapters:
+[2020.03.05-12.24.24:050][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 750 Ti' (Feature Level 11_0)
+[2020.03.05-12.24.24:050][  0]LogD3D11RHI:       2017/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.03.05-12.24.24:053][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.03.05-12.24.24:053][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.03.05-12.24.24:053][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.03.05-12.24.24:061][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.03.05-12.24.24:061][  0]LogD3D11RHI:     GPU DeviceId: 0x1380 (for the marketing name, search the web for "GPU Device Id")
+[2020.03.05-12.24.24:061][  0]LogWindows: EnumDisplayDevices:
+[2020.03.05-12.24.24:062][  0]LogWindows:    0. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:1)
+[2020.03.05-12.24.24:062][  0]LogWindows:    1. 'NVIDIA GeForce GTX 750 Ti' (P:1 D:1)
+[2020.03.05-12.24.24:062][  0]LogWindows:    2. 'NVIDIA GeForce GTX 750 Ti' (P:0 D:0)
+[2020.03.05-12.24.24:062][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.03.05-12.24.24:062][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 750 Ti
+[2020.03.05-12.24.24:062][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2020.03.05-12.24.24:062][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2020.03.05-12.24.24:062][  0]LogRHI: Texture pool is 1412 MB (70% of 2017 MB)
+[2020.03.05-12.24.24:094][  0]LogD3D11RHI: Async texture creation enabled
+[2020.03.05-12.24.24:098][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-12.24.24:098][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-12.24.24:098][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.03.05-12.24.24:105][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.03.05-12.24.24:590][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.03.05-12.24.24:605][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.03.05-12.24.24:671][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.03.05-12.24.24:697][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.03.05-12.24.24:735][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.03.05-12.24.24:749][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.03.05-12.24.24:764][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.03.05-12.24.24:779][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.03.05-12.24.24:786][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.03.05-12.24.24:866][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.03.05-12.24.24:879][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.03.05-12.24.24:939][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.03.05-12.24.24:939][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.03.05-12.24.24:966][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.03.05-12.24.24:967][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.03.05-12.24.24:980][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.03.05-12.24.24:993][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.03.05-12.24.25:006][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.03.05-12.24.25:031][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.03.05-12.24.25:078][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.03.05-12.24.25:078][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.03.05-12.24.25:079][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.03.05-12.24.25:117][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.03.05-12.24.25:270][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Intermediate/Shaders/WorkingDirectory/16636/).
+[2020.03.05-12.24.25:270][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/eg215252/AppData/Local/Temp/UnrealShaderWorkingDir/BEB9D3CD40DFD1041A77C1B27C803724/'.
+[2020.03.05-12.24.25:284][  0]LogShaderCompilers: Display: Using XGE Shader Compiler (Interception Interface).
+[2020.03.05-12.24.27:520][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.03.05-12.24.27:566][  0]LogDerivedDataCache: Loaded boot cache 0.05s 71MB C:/Users/eg215252/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-12.24.27:566][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/eg215252/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.03.05-12.24.27:566][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Master/GART250/z.Unreal/GART250/GART250 - Office/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.03.05-12.24.27:566][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.03.05-12.24.27:566][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Master/GART250/z.Unreal/GART250/GART250 - Office/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-12.24.27:566][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.03.05-12.24.27:579][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.03.05-12.24.27:579][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.03.05-12.24.27:579][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.03.05-12.24.27:591][  0]LogDerivedDataCache: Using Local data cache path C:/Users/eg215252/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.03.05-12.24.27:591][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.03.05-12.24.27:591][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.03.05-12.24.27:618][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.03.05-12.24.27:619][  0]LogSlate: Using FreeType 2.6.0
+[2020.03.05-12.24.27:724][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.03.05-12.24.28:256][  0]LogAssetRegistry: FAssetRegistry took 0.0331 seconds to start up
+[2020.03.05-12.24.28:566][  0]LogInit: Selected Device Profile: [Windows]
+[2020.03.05-12.24.28:633][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.03.05-12.24.28:633][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.03.05-12.24.28:633][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.03.05-12.24.28:633][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.03.05-12.24.28:633][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.03.05-12.24.28:727][  0]LogNetVersion: MyProject 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 2788865488)
+[2020.03.05-12.24.29:143][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.063461 seconds
+[2020.03.05-12.24.29:149][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.03.05-12.24.29:149][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.03.05-12.24.29:149][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.03.05-12.24.34:050][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.03.05-12.24.34:065][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.03.05-12.24.34:270][  0]SourceControl: Source control is disabled
+[2020.03.05-12.24.34:270][  0]SourceControl: Source control is disabled
+[2020.03.05-12.24.34:273][  0]SourceControl: Source control is disabled
+[2020.03.05-12.24.34:275][  0]SourceControl: Source control is disabled
+[2020.03.05-12.24.34:422][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.03.05-12.24.34:518][  0]LogOcInput: OculusInput pre-init called
+[2020.03.05-12.24.35:438][  0]LogEngine: Initializing Engine...
+[2020.03.05-12.24.35:439][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.03.05-12.24.35:440][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.03.05-12.24.35:669][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.03.05-12.24.35:696][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.03.05-12.24.35:708][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-12.24.35:914][  0]LogInit: FAudioDevice initialized.
+[2020.03.05-12.24.35:914][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.03.05-12.24.36:256][  0]LogDerivedDataCache: Saved boot cache 0.34s 71MB C:/Users/eg215252/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.03.05-12.24.36:262][  0]LogInit: Texture streaming: Enabled
+[2020.03.05-12.24.36:368][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.03.05-12.24.36:616][  0]LogLauncherPlatform: Warning: FPlatformProcess::LaunchURL had an error: Failed launching URL
+[2020.03.05-12.24.36:630][  0]LogInit: Transaction tracking system initialized
+[2020.03.05-12.24.36:665][  0]BlueprintLog: New page: Editor Load
+[2020.03.05-12.24.36:911][  0]LocalizationService: Localization service is disabled
+[2020.03.05-12.24.37:437][  0]LogFileCache: Scanning file cache for directory 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/' took 0.02s
+[2020.03.05-12.24.37:437][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.03.05-12.24.37:437][  0]LogCook: Display: Mobile HDR setting 1
+[2020.03.05-12.24.37:967][  0]SourceControl: Source control is disabled
+[2020.03.05-12.24.37:967][  0]Cmd: MAP LOAD FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-12.24.37:967][  0]LogEditorServer: Warning: Can't find file 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/StarterContent/Maps/Minimal_Default.umap'
+[2020.03.05-12.24.37:967][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-12.24.37:967][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2020.03.05-12.24.37:967][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.000
+[2020.03.05-12.24.38:242][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-12.24.38:250][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-12.24.38:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-12.24.38:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-12.24.38:357][  0]LogCollectionManager: Loaded 0 collections in 0.003066 seconds
+[2020.03.05-12.24.38:546][  0]LogFileCache: Scanning file cache for directory 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Collections/' took 0.01s
+[2020.03.05-12.24.38:546][  0]LogFileCache: Scanning file cache for directory 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Developers/EG215252/Collections/' took 0.01s
+[2020.03.05-12.24.38:546][  0]LogFileCache: Scanning file cache for directory 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Collections/' took 0.01s
+[2020.03.05-12.24.38:546][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2020.03.05-12.24.38:554][  0]LogContentBrowser: Native class hierarchy populated in 0.0078 seconds. Added 2732 classes and 659 folders.
+[2020.03.05-12.24.38:602][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.03.05-12.24.38:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:676][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:682][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:700][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:736][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:742][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:748][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:755][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:781][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:789][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:795][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:804][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:818][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:832][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:839][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.38:845][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.03.05-12.24.39:118][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.05-12.24.39:124][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2020.03.05-12.24.39:137][  0]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.03.05-12.24.39:139][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.03.05-12.24.39:211][  0]LogSlate: Took 0.064912 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.03.05-12.24.39:335][  0]LogRenderer: Reallocating scene render targets to support 1208x612 Format 10 NumSamples 1 (Frame:1).
+[2020.03.05-12.24.39:582][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2020.03.05-12.24.39:582][  0]LogLoad: (Engine Initialization) Total time: 23.39 seconds
+[2020.03.05-12.24.39:583][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.03.05-12.24.39:610][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.03.05-12.24.43:897][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-12.24.43:992][482]LogSlate: Took 0.005411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-12.24.54:171][703]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.03.05-12.24.57:203][ 66]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.05-12.25.03:869][ 66]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 32X32)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 4096X1024)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: rough-plaster-roughness (AutoDXT, 2048X2048)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: rough-plaster-metallic (AutoDXT, 2048X2048)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 4096X4096)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: rough-plaster-normal-dx (BC5, 2048X2048)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 4096X4096)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: rough-plaster-basecolor (AutoDXT, 2048X2048)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: rough-plaster-ao (AutoDXT, 2048X2048)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: WoodFloor08_disp (AutoDXT, 2048X2048)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: WoodFloor08_nrm (BC5, 2048X2048)
+[2020.03.05-12.25.03:870][ 66]LogTexture: Display: Building textures: WoodFloor08_col (AutoDXT, 2048X2048)
+[2020.03.05-12.25.03:940][ 66]LogStaticMesh: Building static mesh SM_Chair_Office...
+[2020.03.05-12.25.04:130][ 66]LogStaticMesh: Built static mesh [0.19s] /Game/Meshes/Furniture/SM_Chair_Office.SM_Chair_Office
+[2020.03.05-12.25.04:558][ 66]LogStaticMesh: Building static mesh SM_Glass_Conference...
+[2020.03.05-12.25.04:561][ 66]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Structure/SM_Glass_Conference.SM_Glass_Conference
+[2020.03.05-12.25.05:015][ 66]LogStaticMesh: Building static mesh SM_SkirtingBoard_Small...
+[2020.03.05-12.25.05:016][ 66]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Structure/SM_SkirtingBoard_Small.SM_SkirtingBoard_Small
+[2020.03.05-12.25.05:036][ 66]LogStaticMesh: Building static mesh SM_Wall_Divide...
+[2020.03.05-12.25.05:052][ 66]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Furniture/SM_Wall_Divide.SM_Wall_Divide
+[2020.03.05-12.25.05:054][ 66]LogStaticMesh: Building static mesh SM_WindowFrame_Conference...
+[2020.03.05-12.25.05:077][ 66]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Structure/SM_WindowFrame_Conference.SM_WindowFrame_Conference
+[2020.03.05-12.25.05:244][ 66]LogStaticMesh: Building static mesh Walls...
+[2020.03.05-12.25.05:259][ 66]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/z_Layout_V2/Walls.Walls
+[2020.03.05-12.25.05:298][ 66]LogMaterial: Display: Missing cached shader map for material DC_V, compiling. 
+[2020.03.05-12.25.05:493][ 66]LogMaterial: Display: Missing cached shader map for material DC_L, compiling. 
+[2020.03.05-12.25.05:573][ 66]LogMaterial: Display: Missing cached shader map for material DC, compiling. 
+[2020.03.05-12.25.06:420][ 66]LogMaterial: Display: Missing cached shader map for material Plaster, compiling. 
+[2020.03.05-12.25.06:457][ 66]LogMaterial: Display: Missing cached shader map for material Skirt, compiling. 
+[2020.03.05-12.25.06:753][ 66]LogMaterial: Display: Missing cached shader map for material WoodFloor, compiling. 
+[2020.03.05-12.25.07:080][ 66]LogMaterial: Display: Missing cached shader map for material Walls_2, compiling. 
+[2020.03.05-12.25.07:102][ 66]LogAIModule: Creating AISystem for world GART250_NewLayout
+[2020.03.05-12.25.07:138][ 66]LogAssetEditorManager: Opening Asset editor for World /Game/GART250_NewLayout.GART250_NewLayout
+[2020.03.05-12.25.07:168][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.03.05-12.25.07:169][ 66]Cmd: MAP LOAD FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250_NewLayout.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-12.25.07:169][ 66]LightingResults: New page: Lighting Build
+[2020.03.05-12.25.07:173][ 66]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0003 seconds. Added 5 classes and 0 folders.
+[2020.03.05-12.25.07:174][ 66]LoadErrors: New page: Loading map: GART250_NewLayout.umap
+[2020.03.05-12.25.07:174][ 66]MapCheck: New page: Map Check
+[2020.03.05-12.25.07:174][ 66]LightingResults: New page: Lighting Build
+[2020.03.05-12.25.07:197][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.03.05-12.25.07:222][ 66]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-12.25.07:251][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.03.05-12.25.07:275][ 66]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-12.25.07:275][ 66]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2020.03.05-12.25.07:275][ 66]LogFileHelpers: Loading map 'GART250_NewLayout' took 0.107
+[2020.03.05-12.25.15:137][936]LogAssetRegistry: Asset discovery search completed in 46.9014 seconds
+[2020.03.05-12.25.15:139][936]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000001 seconds (updated 0 objects)
+[2020.03.05-12.27.48:449][466]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube61)
+[2020.03.05-12.27.48:762][466]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-13.22.29:102][324]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-13.22.29:977][416]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-13.23.37:123][554]LogUObjectHash: Compacting FUObjectHashTables data took   6.14ms
+[2020.03.05-13.23.37:124][554]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GART250_NewLayout' took 0.034
+[2020.03.05-13.31.13:026][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.31.30:426][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Master\GART250\Textures\Chair\SM_Chair_Office_Chair_Office_Blue_BaseColor.png)
+[2020.03.05-13.31.30:543][344]LogTexture: Display: Building textures: SM_Chair_Office_Chair_Office_Blue_BaseColor (AutoDXT, 2048X2048)
+[2020.03.05-13.31.31:276][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Master\GART250\Textures\Chair\SM_Chair_Office_Chair_Office_Blue_Normal.png)
+[2020.03.05-13.31.31:457][344]LogTexture: Display: Building textures: SM_Chair_Office_Chair_Office_Blue_Normal (BC5, 2048X2048)
+[2020.03.05-13.31.31:728][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Master\GART250\Textures\Chair\SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.png)
+[2020.03.05-13.31.31:842][344]LogTexture: Display: Building textures: SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.05-13.31.32:762][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Master\GART250\Textures\Chair\SM_Chair_Office_Chair_Office_Red_BaseColor.png)
+[2020.03.05-13.31.32:871][344]LogTexture: Display: Building textures: SM_Chair_Office_Chair_Office_Red_BaseColor (AutoDXT, 2048X2048)
+[2020.03.05-13.31.33:505][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Master\GART250\Textures\Chair\SM_Chair_Office_Chair_Office_Red_Normal.png)
+[2020.03.05-13.31.33:680][344]LogTexture: Display: Building textures: SM_Chair_Office_Chair_Office_Red_Normal (BC5, 2048X2048)
+[2020.03.05-13.31.33:937][344]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Master\GART250\Textures\Chair\SM_Chair_Office_Chair_Office_Red_OcclusionRoughnessMetallic.png)
+[2020.03.05-13.31.34:058][344]LogTexture: Display: Building textures: SM_Chair_Office_Chair_Office_Red_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.05-13.31.58:501][750]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.03.05-13.31.59:678][750]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.05-13.31.59:768][750]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.03.05-13.32.34:076][488]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/M_Master.M_Master
+[2020.03.05-13.32.34:212][488]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.32.34:875][488]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.32.34:925][488]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.32.35:043][488]LogSlate: Took 0.022793 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.05-13.32.38:237][717]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.03.05-13.32.38:319][718]LogSlate: Took 0.028066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.05-13.32.44:209][176]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.03.05-13.32.48:317][503]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.03.05-13.32.48:345][503]LogSlate: Window 'Color Picker' being destroyed
+[2020.03.05-13.32.49:104][560]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.03.05-13.32.49:104][560]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.03.05-13.32.49:104][560]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.03.05-13.32.49:104][560]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.05-13.33.37:749][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.03.05-13.33.37:749][861]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GART250_NewLayout' took 0.026
+[2020.03.05-13.33.37:751][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_BaseColor] ([1] browsable assets)...
+[2020.03.05-13.33.37:760][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_BaseColor.SM_Chair_Office_Chair_Office_Blue_BaseColor]
+[2020.03.05-13.33.37:760][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_BaseColor]
+[2020.03.05-13.33.37:784][861]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_Blu3E7AF11C4B5680E727B250992239DEB8.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_BaseColor_Auto1.uasset'
+[2020.03.05-13.33.37:786][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_Normal] ([1] browsable assets)...
+[2020.03.05-13.33.37:796][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_Normal.SM_Chair_Office_Chair_Office_Blue_Normal]
+[2020.03.05-13.33.37:796][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_Normal]
+[2020.03.05-13.33.37:821][861]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_BluAF89446C41C442863E927E95D7E3E701.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_Normal_Auto1.uasset'
+[2020.03.05-13.33.37:822][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2020.03.05-13.33.37:829][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic]
+[2020.03.05-13.33.37:829][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic]
+[2020.03.05-13.33.37:850][861]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_BluEEC2901D4FAB967162F424ADE23DD342.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic_Auto1.uasset'
+[2020.03.05-13.33.37:881][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_BaseColor] ([1] browsable assets)...
+[2020.03.05-13.33.37:910][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_BaseColor.SM_Chair_Office_Chair_Office_Red_BaseColor]
+[2020.03.05-13.33.37:910][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_BaseColor]
+[2020.03.05-13.33.37:951][861]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_Red07CB7AD6413CB0481A4E77AF2DD7EC1B.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_BaseColor_Auto1.uasset'
+[2020.03.05-13.33.37:952][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_Normal] ([1] browsable assets)...
+[2020.03.05-13.33.37:964][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_Normal.SM_Chair_Office_Chair_Office_Red_Normal]
+[2020.03.05-13.33.37:964][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_Normal]
+[2020.03.05-13.33.37:987][861]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_RedBCB74E8B46D23B47A33281BE803154CD.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_Normal_Auto1.uasset'
+[2020.03.05-13.33.37:987][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2020.03.05-13.33.37:994][861]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Red_OcclusionRoughnessMetallic]
+[2020.03.05-13.33.37:994][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_OcclusionRoughnessMetallic]
+[2020.03.05-13.33.38:015][861]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_Red7EB6935E4E88D0DD9E1C6FB94E45561F.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_OcclusionRoughnessMetallic_Auto1.uasset'
+[2020.03.05-13.33.38:016][861]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Master] ([1] browsable assets)...
+[2020.03.05-13.33.38:096][861]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Master.M_Master]
+[2020.03.05-13.33.38:096][861]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Master]
+[2020.03.05-13.33.38:096][861]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Master" FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/M_Master_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.03.05-13.33.38:117][861]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Master_Auto18CF7F2984C076256F63BB5897F738048.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/M_Master_Auto1.uasset'
+[2020.03.05-13.33.38:118][861]LogFileHelpers: Auto-saving content packages took 0.368
+[2020.03.05-13.34.33:250][113]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.34.33:285][113]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.34.34:547][213]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.34.37:925][488]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.34.37:930][488]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.34.37:966][488]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.34.37:972][488]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.34.39:336][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.34.39:341][601]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.34.43:182][926]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.34.43:187][926]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.34.43:207][926]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.34.43:257][926]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.34.43:264][926]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.34.43:344][926]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.34.44:679][ 36]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.34.44:684][ 36]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.34.44:690][ 36]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.34.46:210][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.34.46:215][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.34.46:221][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.34.47:728][285]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.34.47:736][285]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.34.47:741][285]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.34.53:893][788]LogMaterialEditor: Applying material M_Master
+[2020.03.05-13.34.57:020][788]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.34.57:088][788]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.34.57:113][788]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.34.57:160][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.03.05-13.34.57:572][788]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-13.35.09:351][788]TextureStreamingBuild: Display: Compiling optional shaders took 12.191 seconds.
+[2020.03.05-13.35.09:393][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.05-13.35.09:422][789]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.03.05-13.35.09:422][789]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.03.05-13.35.09:422][789]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.03.05-13.35.09:422][789]MaterialEditorStats: Texture samplers: 6/16
+[2020.03.05-13.35.09:422][789]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.05-13.35.09:422][789]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.05-13.35.25:992][708]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/M_Master_Inst.M_Master_Inst
+[2020.03.05-13.35.26:250][708]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:1).
+[2020.03.05-13.35.30:007][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2020.03.05-13.35.30:035][999]TextureStreamingBuild: Display: Compiling optional shaders took 0.007 seconds.
+[2020.03.05-13.35.30:059][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.05-13.35.32:084][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.35.32:089][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.35.32:145][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.35.32:152][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.05-13.35.32:166][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.05-13.35.32:274][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.35.32:281][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.35.32:287][161]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.05-13.35.35:418][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.35.35:424][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.35.35:430][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.05-13.35.35:436][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.05-13.35.35:450][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.05-13.35.35:514][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.35.35:521][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.05-13.35.35:528][405]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.05-13.35.40:744][744]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.35.40:750][744]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.05-13.35.40:755][744]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.05-13.35.46:960][247]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.35.46:965][247]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.05-13.35.46:970][247]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.05-13.35.46:976][247]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.03.05-13.35.46:997][247]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.03.05-13.35.47:064][247]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.05-13.35.47:069][247]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.05-13.35.47:076][247]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.03.05-13.36.29:606][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.36.31:728][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.05-13.36.32:611][ 90]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.05-13.36.32:701][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.03.05-13.36.38:132][321]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/M_Master_Inst.M_Master_Inst
+[2020.03.05-13.36.43:702][722]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.03.05-13.36.43:733][722]TextureStreamingBuild: Display: Compiling optional shaders took 0.007 seconds.
+[2020.03.05-13.36.43:756][722]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.03.05-13.36.58:647][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.03.05-13.36.59:587][774]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.05-13.36.59:672][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.03.05-13.37.20:266][ 63]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/M_Master_Inst.M_Master_Inst
+[2020.03.05-13.37.43:920][857]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.05-13.37.43:928][857]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.05-13.37.43:935][857]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.03.05-13.37.43:942][857]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.05-13.37.50:587][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.05-13.37.50:606][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.05-13.37.50:619][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.03.05-13.37.50:632][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.05-13.37.50:638][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.37.50:657][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.37.50:718][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.03.05-13.37.50:733][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.03.05-13.37.50:741][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.03.05-13.37.50:747][438]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.37.58:237][940]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.38.00:271][101]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.38.06:503][521]LogMaterialEditor: Applying material M_Master
+[2020.03.05-13.38.06:949][521]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.38.07:026][521]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.38.07:048][521]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.38.07:100][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.03.05-13.38.07:108][521]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-13.38.16:568][521]TextureStreamingBuild: Display: Compiling optional shaders took 9.469 seconds.
+[2020.03.05-13.38.16:597][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.03.05-13.38.20:393][734]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.03.05-13.38.20:393][734]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.03.05-13.38.20:394][734]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.03.05-13.38.20:394][734]MaterialEditorStats: Texture samplers: 4/16
+[2020.03.05-13.38.20:394][734]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.03.05-13.38.20:394][734]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.05-13.38.31:315][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.38.31:347][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.05-13.38.35:036][ 36]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.38.35:041][ 36]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.05-13.38.44:117][722]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.38.44:123][722]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.05-13.38.48:230][ 17]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.05-13.38.48:272][ 17]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.38.48:292][ 17]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.03.05-13.38.53:920][403]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.38.53:925][403]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.05-13.38.53:930][403]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.03.05-13.38.55:626][524]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.38.55:632][524]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.05-13.38.55:637][524]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.03.05-13.38.57:196][644]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.38.57:203][644]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.05-13.38.57:229][644]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.03.05-13.38.58:760][769]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.03.05-13.38.58:767][769]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.03.05-13.38.58:773][769]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.03.05-13.39.08:647][430]LogMaterialEditor: Applying material M_Master
+[2020.03.05-13.39.09:064][430]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.39.09:144][430]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.39.09:168][430]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.39.09:225][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.03.05-13.39.09:236][430]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-13.39.21:355][430]TextureStreamingBuild: Display: Compiling optional shaders took 12.129 seconds.
+[2020.03.05-13.39.21:381][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.03.05-13.39.21:406][430]MaterialEditorStats: Base pass shader: 113 instructions
+[2020.03.05-13.39.21:406][430]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2020.03.05-13.39.21:406][430]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.03.05-13.39.21:406][430]MaterialEditorStats: Texture samplers: 6/16
+[2020.03.05-13.39.21:406][430]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.05-13.39.21:406][430]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.05-13.39.34:722][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.39.45:753][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls)
+[2020.03.05-13.39.47:658][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.39.49:858][181]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Walls/PLaster/Plaster.Plaster
+[2020.03.05-13.39.49:875][181]LogMaterial: Display: Missing cached shader map for material Plaster, compiling. 
+[2020.03.05-13.39.50:016][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.39.50:021][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.03.05-13.39.50:027][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.05-13.39.50:034][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.39.50:041][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.39.50:048][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.03.05-13.39.50:075][181]LogMaterial: Display: Missing cached shader map for material Plaster, compiling. 
+[2020.03.05-13.39.50:102][181]LogMaterial: Display: Missing cached shader map for material Plaster, compiling. 
+[2020.03.05-13.39.50:157][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.39.50:164][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2020.03.05-13.39.50:171][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.05-13.39.50:179][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.39.50:187][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.39.50:195][181]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.03.05-13.39.56:899][563]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Walls/PLaster/Plaster_Inst.Plaster_Inst
+[2020.03.05-13.40.01:665][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.03.05-13.40.01:684][846]TextureStreamingBuild: Display: Compiling optional shaders took 0.008 seconds.
+[2020.03.05-13.40.01:709][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.03.05-13.40.02:220][875]LogSlate: Window 'M_Master' being destroyed
+[2020.03.05-13.40.07:719][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.40.08:641][427]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair_Office)
+[2020.03.05-13.40.10:212][528]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.40.23:441][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Chair_Office" FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/M_Chair_Office.uasset" SILENT=true
+[2020.03.05-13.40.23:461][168]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Chair_Office2FFB618D4C74E02F269D25B4E07C897E.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/M_Chair_Office.uasset'
+[2020.03.05-13.40.23:584][168]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.03.05-13.40.23:612][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2020.03.05-13.40.23:634][168]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.03.05-13.40.27:089][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Furniture/M_Chair_Office" FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/M_Chair_Office.uasset" SILENT=true
+[2020.03.05-13.40.27:116][487]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Chair_OfficeB375FADE4E32416059EB80B0BB49D390.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/M_Chair_Office.uasset'
+[2020.03.05-13.40.27:220][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.05-13.40.27:246][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.03.05-13.40.27:268][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.05-13.40.31:319][782]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Furniture/Chair/M_Chair_Office" FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/M_Chair_Office.uasset" SILENT=true
+[2020.03.05-13.40.31:338][782]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Chair_OfficeF4F23D1748C67DBB5C96C29B4232E1F4.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/M_Chair_Office.uasset'
+[2020.03.05-13.40.31:454][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.03.05-13.40.31:484][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2020.03.05-13.40.31:506][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.05-13.40.34:534][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.40.36:765][150]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.40.37:379][218]LogMaterial: Warning: Material /Game/Materials/M_Master.M_Master needed to have new flag set bUsedWithStaticLighting !
+[2020.03.05-13.40.37:383][218]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2020.03.05-13.40.44:079][771]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.40.46:282][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.40.48:818][134]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Furniture/Chair/M_Chair_Office_2.M_Chair_Office_2
+[2020.03.05-13.40.53:551][400]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Furniture/Chair/M_Chair_Office.M_Chair_Office
+[2020.03.05-13.40.58:483][684]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Furniture/Chair/M_Chair_Office" FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/M_Chair_Office.uasset" SILENT=true
+[2020.03.05-13.40.58:507][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.03.05-13.40.58:511][684]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-13.41.00:476][684]TextureStreamingBuild: Display: Compiling optional shaders took 1.969 seconds.
+[2020.03.05-13.41.00:500][684]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.05-13.41.00:533][684]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Chair_Office6EBB13DB4F6D8B2C958C4CA85FE4D2B2.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/M_Chair_Office.uasset'
+[2020.03.05-13.41.29:350][892]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.41.29:446][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Furniture/Chair/M_Chair_Office" FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/M_Chair_Office.uasset" SILENT=true
+[2020.03.05-13.41.29:472][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.03.05-13.41.29:477][898]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-13.41.31:896][898]TextureStreamingBuild: Display: Compiling optional shaders took 2.424 seconds.
+[2020.03.05-13.41.31:957][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.03.05-13.41.31:979][898]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Chair_Office055697C940C3F8CC757E519FEC776DD3.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/M_Chair_Office.uasset'
+[2020.03.05-13.41.44:683][792]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.41.46:463][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.03.05-13.41.47:788][898]LogSlate: Window 'Delete Assets' being destroyed
+[2020.03.05-13.41.47:846][898]LogSlate: Window 'M_Chair_Office' being destroyed
+[2020.03.05-13.41.47:905][898]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/Materials/Furniture/Chair/M_Chair_Office_2.M_Chair_Office_2
+	Asset Name: /Game/Materials/Furniture/Chair/M_Chair_Office.M_Chair_Office
+[2020.03.05-13.42.05:880][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.03.05-13.42.05:913][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.03.05-13.42.05:937][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.03.05-13.42.09:960][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.42.20:638][198]LogMaterial: Warning: Material /Game/Materials/Furniture/Chair/Chair_Office_Blue.Chair_Office_Blue needed to have new flag set bUsedWithStaticLighting !
+[2020.03.05-13.42.20:641][198]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.42.22:792][381]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.42.26:969][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.42.29:705][993]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Furniture/Chair/Chair_Office_Blue.Chair_Office_Blue
+[2020.03.05-13.42.29:709][993]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.42.29:823][993]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.42.29:846][993]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.42.32:401][146]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.42.32:440][146]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.42.33:443][224]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.42.34:925][317]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.42.34:932][317]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.42.34:965][317]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.42.34:971][317]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.42.35:960][390]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.42.35:967][390]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.42.38:359][554]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.42.38:366][554]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.42.38:372][554]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.42.38:408][554]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.42.38:416][554]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.42.38:421][554]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.42.39:877][658]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.42.39:883][658]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.42.39:888][658]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.42.41:783][803]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.42.41:790][803]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.42.41:797][803]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.42.42:440][841]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.03.05-13.42.42:440][841]MaterialEditorStats: Base pass shader with Surface Lightmap: 135 instructions
+[2020.03.05-13.42.42:440][841]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.03.05-13.42.42:440][841]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.03.05-13.42.42:440][841]MaterialEditorStats: Texture samplers: 3/16
+[2020.03.05-13.42.43:818][950]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.42.43:823][950]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.42.43:828][950]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.42.45:184][ 33]LogMaterialEditor: Applying material Chair_Office_Blue
+[2020.03.05-13.42.45:858][ 33]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.42.45:961][ 33]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.42.45:991][ 33]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.42.46:039][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.03.05-13.42.46:047][ 33]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-13.43.12:618][ 33]TextureStreamingBuild: Display: Compiling optional shaders took 26.579 seconds.
+[2020.03.05-13.43.12:641][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2020.03.05-13.43.12:661][ 33]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.03.05-13.43.12:661][ 33]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2020.03.05-13.43.12:661][ 33]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.03.05-13.43.12:661][ 33]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.03.05-13.43.12:661][ 33]MaterialEditorStats: Texture samplers: 6/16
+[2020.03.05-13.43.12:661][ 33]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.05-13.43.12:661][ 33]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.05-13.43.23:695][710]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-13.43.25:173][853]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.43.25:180][853]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.43.25:187][853]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.43.26:159][920]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-13.43.27:074][986]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.43.27:133][986]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.03.05-13.43.28:795][132]LogTexture: Display: Building textures: SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2020.03.05-13.43.29:728][132]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.43.29:729][132]LogMaterial: Warning: /Game/Materials/Furniture/Chair/Chair_Office_Blue.Chair_Office_Blue (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.05-13.43.29:729][132]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.43.29:733][132]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.43.29:775][132]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.43.31:950][266]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_Blu812F28E44C54A41C7859BB9540C2D17F.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.uasset'
+[2020.03.05-13.43.43:400][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.43.47:140][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.43.51:852][664]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.43.52:840][723]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue_2, compiling. 
+[2020.03.05-13.43.52:841][723]LogMaterial: Warning: /Game/Materials/Furniture/Chair/Chair_Office_Blue_2.Chair_Office_Blue_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.05-13.43.52:841][723]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.43.58:194][  0]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Chair_Office_Red46568E65443B1EF1D9C33B9714145B65.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/Chair_Office_Red.uasset'
+[2020.03.05-13.43.58:306][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.03.05-13.43.58:333][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.03.05-13.43.58:354][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.05-13.44.01:177][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.44.02:591][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.44.02:736][265]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Furniture/Chair/Chair_Office_Red.Chair_Office_Red
+[2020.03.05-13.44.02:740][265]LogMaterial: Display: Missing cached shader map for material Chair_Office_Red, compiling. 
+[2020.03.05-13.44.02:740][265]LogMaterial: Warning: /Engine/Transient.Chair_Office_Red (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.05-13.44.02:740][265]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.44.02:836][265]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.44.02:841][265]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.44.02:843][265]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.44.02:850][265]LogMaterial: Display: Missing cached shader map for material Chair_Office_Red, compiling. 
+[2020.03.05-13.44.02:851][265]LogMaterial: Warning: /Engine/Transient.Chair_Office_Red (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.05-13.44.02:851][265]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.44.02:855][265]LogMaterial: Display: Missing cached shader map for material Chair_Office_Red, compiling. 
+[2020.03.05-13.44.02:855][265]LogMaterial: Warning: /Engine/Transient.Chair_Office_Red (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.05-13.44.02:855][265]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.44.02:884][265]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.03.05-13.44.02:892][265]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.44.02:894][265]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.44.02:934][265]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.44.05:111][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.44.05:114][417]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.44.07:006][549]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.44.07:008][549]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.44.07:048][549]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.05-13.44.07:083][549]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.44.07:086][549]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.44.07:092][549]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.05-13.44.08:080][625]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.44.08:082][625]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.44.08:088][625]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.05-13.44.12:026][928]LogMaterialEditor: Applying material Chair_Office_Red
+[2020.03.05-13.44.13:767][928]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2020.03.05-13.44.16:039][928]LogMaterial: Display: Missing cached shader map for material Chair_Office_Red, compiling. 
+[2020.03.05-13.44.16:040][928]LogMaterial: Warning: /Engine/Transient.Chair_Office_Red (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.05-13.44.16:040][928]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.44.16:068][928]LogMaterial: Display: Missing cached shader map for material Chair_Office_Red, compiling. 
+[2020.03.05-13.44.16:069][928]LogMaterial: Warning: D:\Master\GART250\z.Unreal\GART250\GART250 - Office\Content\Materials\Furniture\Chair\Chair_Office_Red.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.05-13.44.16:069][928]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.44.16:075][928]LogMaterial: Display: Missing cached shader map for material Chair_Office_Red, compiling. 
+[2020.03.05-13.44.16:075][928]LogMaterial: Warning: D:\Master\GART250\z.Unreal\GART250\GART250 - Office\Content\Materials\Furniture\Chair\Chair_Office_Red.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.03.05-13.44.16:075][928]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.44.16:101][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.03.05-13.44.16:111][928]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-13.44.16:112][928]TextureStreamingBuild: Display: Compiling optional shaders took 0.011 seconds.
+[2020.03.05-13.44.16:133][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2020.03.05-13.44.19:090][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.03.05-13.44.19:099][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.03.05-13.44.19:104][154]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.03.05-13.44.19:894][205]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.44.22:505][416]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_BluFA3C12424E266A519B2376AA3C722C9E.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.uasset'
+[2020.03.05-13.44.25:172][528]LogSlate: Window 'Message' being destroyed
+[2020.03.05-13.44.26:860][528]LogSlate: Window 'Warning: Compilation errors in this Material' being destroyed
+[2020.03.05-13.44.27:326][528]LogMaterial: Display: Missing cached shader map for material Chair_Office_Red, compiling. 
+[2020.03.05-13.44.27:411][528]LogMaterial: Display: Missing cached shader map for material Chair_Office_Red, compiling. 
+[2020.03.05-13.44.27:443][528]LogMaterial: Display: Missing cached shader map for material Chair_Office_Red, compiling. 
+[2020.03.05-13.44.27:497][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.03.05-13.44.27:508][528]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-13.44.46:620][528]TextureStreamingBuild: Display: Compiling optional shaders took 19.124 seconds.
+[2020.03.05-13.44.46:651][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.03.05-13.44.47:009][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2020.03.05-13.44.47:535][529]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/GART250_NewLayout_Auto2B602CAA244F5CCB7FA76E08DC1BF590D.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/GART250_NewLayout_Auto2.umap'
+[2020.03.05-13.44.47:543][529]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GART250_NewLayout' took 0.559
+[2020.03.05-13.44.47:543][529]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.559
+[2020.03.05-13.44.47:544][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Master] ([1] browsable assets)...
+[2020.03.05-13.44.47:598][529]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/M_Master.M_Master]
+[2020.03.05-13.44.47:598][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Master]
+[2020.03.05-13.44.47:598][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Master" FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/M_Master_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.03.05-13.44.47:622][529]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Master_Auto2338111F546AD1BE84DC95993644D20D7.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/M_Master_Auto2.uasset'
+[2020.03.05-13.44.47:680][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/M_Master_Inst] ([1] browsable assets)...
+[2020.03.05-13.44.47:733][529]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/M_Master_Inst.M_Master_Inst]
+[2020.03.05-13.44.47:733][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/M_Master_Inst]
+[2020.03.05-13.44.47:753][529]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Master_Inst_Auto2CA3750674F65C4EEEBEC41B6DACCF9EC.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/M_Master_Inst_Auto2.uasset'
+[2020.03.05-13.44.47:753][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Furniture/Chair/Chair_Office_Blue] ([1] browsable assets)...
+[2020.03.05-13.44.47:806][529]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Furniture/Chair/Chair_Office_Blue.Chair_Office_Blue]
+[2020.03.05-13.44.47:806][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Furniture/Chair/Chair_Office_Blue]
+[2020.03.05-13.44.47:827][529]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Chair_Office_Blue_Auto2CA7D4DB741AEB86DD00625B224BBA304.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/Furniture/Chair/Chair_Office_Blue_Auto2.uasset'
+[2020.03.05-13.44.47:828][529]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Furniture/Chair/Chair_Office_Red] ([1] browsable assets)...
+[2020.03.05-13.44.47:879][529]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Furniture/Chair/Chair_Office_Red.Chair_Office_Red]
+[2020.03.05-13.44.47:879][529]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Furniture/Chair/Chair_Office_Red]
+[2020.03.05-13.44.47:910][529]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Chair_Office_Red_Auto29DCDEAF047637CBF3BB70091534B3ECC.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Autosaves/Game/Materials/Furniture/Chair/Chair_Office_Red_Auto2.uasset'
+[2020.03.05-13.44.47:911][529]LogFileHelpers: Auto-saving content packages took 0.367
+[2020.03.05-13.45.14:011][385]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.45.23:405][ 28]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic.SM_Chair_Office_Chair_Office_Blue_OcclusionRoughnessMetallic
+[2020.03.05-13.45.27:025][334]LogMaterialEditor: Applying material Chair_Office_Blue
+[2020.03.05-13.45.27:505][334]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.45.27:594][334]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.45.27:632][334]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.45.27:683][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.03.05-13.45.27:693][334]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-13.45.46:613][334]TextureStreamingBuild: Display: Compiling optional shaders took 18.930 seconds.
+[2020.03.05-13.45.46:637][334]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.03.05-13.45.46:655][334]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.03.05-13.45.46:655][334]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2020.03.05-13.45.46:655][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2020.03.05-13.45.46:655][334]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.03.05-13.45.46:656][334]MaterialEditorStats: Texture samplers: 6/16
+[2020.03.05-13.45.46:656][334]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.03.05-13.45.46:656][334]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.03.05-13.46.12:025][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.46.20:222][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair_Office)
+[2020.03.05-13.46.21:383][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.46.21:539][821]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Meshes/Furniture/SM_Chair_Office.SM_Chair_Office
+[2020.03.05-13.46.23:134][822]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2020.03.05-13.46.26:879][902]LogSlate: Window 'Message' being destroyed
+[2020.03.05-13.46.27:335][902]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.46.27:426][902]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.46.27:457][902]LogMaterial: Display: Missing cached shader map for material Chair_Office_Blue, compiling. 
+[2020.03.05-13.46.27:511][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.03.05-13.46.27:522][902]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.05-13.46.47:054][902]TextureStreamingBuild: Display: Compiling optional shaders took 19.541 seconds.
+[2020.03.05-13.46.47:081][902]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.03.05-13.46.47:086][902]LogSlate: Window 'Chair_Office_Blue' being destroyed
+[2020.03.05-13.46.53:522][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.47.01:131][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.03.05-13.47.01:143][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GART250_NewLayout" FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250_NewLayout.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.05-13.47.01:170][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.03.05-13.47.01:661][828]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/GART250_NewLayoutAC429F8445C649D06A7543992E1AEA99.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250_NewLayout.umap'
+[2020.03.05-13.47.01:703][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GART250_NewLayout_BuiltData" FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250_NewLayout_BuiltData.uasset" SILENT=true
+[2020.03.05-13.47.02:733][828]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/GART250_NewLayout_BuiltDataE1223C6E4C089E75B1B72789A34D17FD.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/GART250_NewLayout_BuiltData.uasset'
+[2020.03.05-13.47.06:434][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-13.47.06:511][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.03.05-13.47.07:679][201]LogSlate: Window 'Save Content' being destroyed
+[2020.03.05-13.47.07:746][201]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Chair_Office_BlueC36EEB794712CAA20A14B8A26B0A8CA8.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/Chair_Office_Blue.uasset'
+[2020.03.05-13.47.07:770][201]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/Chair_Office_Red8680F50B4D493A6AA5210DBE1E2CFB95.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/Chair_Office_Red.uasset'
+[2020.03.05-13.47.08:183][201]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_Blu459B47E141E04BF2704BF6BF4977C166.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_BaseColor.uasset'
+[2020.03.05-13.47.08:884][201]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_BluC53EECA34D1CCA86FFDF42BCC5EFFB5E.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Blue_Normal.uasset'
+[2020.03.05-13.47.09:250][201]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_RedCDE65AA0485F893708B127A4EA65533D.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_BaseColor.uasset'
+[2020.03.05-13.47.10:049][201]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_Red730AEE084C9D6F052792238C2E223F6F.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_Normal.uasset'
+[2020.03.05-13.47.10:446][201]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/SM_Chair_Office_Chair_Office_Red88AC898C4C7587CF5DAFE8AAAC450C93.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/Furniture/Chair/SM_Chair_Office_Chair_Office_Red_OcclusionRoughnessMetallic.uasset'
+[2020.03.05-13.47.10:455][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Master" FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/M_Master.uasset" SILENT=true
+[2020.03.05-13.47.10:467][201]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Master81C45C4C424F08D54B8C059451269B1D.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/M_Master.uasset'
+[2020.03.05-13.47.10:477][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/M_Master_Inst" FILE="D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/M_Master_Inst.uasset" SILENT=true
+[2020.03.05-13.47.10:489][201]LogSavePackage: Moving 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Saved/M_Master_Inst4324A66B429E9F89CFBE15BA7272BF51.tmp' to 'D:/Master/GART250/z.Unreal/GART250/GART250 - Office/Content/Materials/M_Master_Inst.uasset'
+[2020.03.05-13.47.10:593][201]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2020.03.05-13.47.11:035][202]Cmd: QUIT_EDITOR
+[2020.03.05-13.47.11:073][202]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.03.05-13.47.11:094][202]LogExit: Preparing to exit.
+[2020.03.05-13.47.11:683][202]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.05-13.47.11:683][202]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2020.03.05-13.47.11:715][202]LogExit: Editor shut down
+[2020.03.05-13.47.11:716][202]LogExit: Transaction tracking system shut down
+[2020.03.05-13.47.11:960][202]LogExit: Object subsystem successfully closed.
+[2020.03.05-13.47.12:004][202]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.03.05-13.47.12:014][202]LogD3D11RHI: Shutdown
+[2020.03.05-13.47.12:014][202]LogD3D11RHI: CleanupD3DDevice
+[2020.03.05-13.47.12:149][202]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.05-13.47.12:149][202]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.05-13.47.12:150][202]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.05-13.47.12:150][202]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.05-13.47.12:150][202]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.03.05-13.47.12:150][202]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.03.05-13.47.12:158][202]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.03.05-13.47.12:220][202]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (650)
+[2020.03.05-13.47.12:220][202]LogModuleManager: Shutting down and abandoning module TextureEditor (648)
+[2020.03.05-13.47.12:220][202]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (646)
+[2020.03.05-13.47.12:220][202]LogModuleManager: Shutting down and abandoning module StatsViewer (644)
+[2020.03.05-13.47.12:220][202]LogModuleManager: Shutting down and abandoning module MeshBuilder (642)
+[2020.03.05-13.47.12:220][202]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2020.03.05-13.47.12:220][202]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2020.03.05-13.47.12:221][202]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2020.03.05-13.47.12:224][202]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2020.03.05-13.47.12:224][202]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2020.03.05-13.47.12:224][202]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2020.03.05-13.47.12:224][202]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.03.05-13.47.12:224][202]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.03.05-13.47.12:224][202]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.03.05-13.47.12:224][202]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.03.05-13.47.12:224][202]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.03.05-13.47.12:224][202]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.03.05-13.47.12:224][202]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.03.05-13.47.12:225][202]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.03.05-13.47.12:226][202]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.03.05-13.47.12:666][202]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.03.05-13.47.12:667][202]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.03.05-13.47.12:668][202]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.03.05-13.47.12:668][202]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.03.05-13.47.12:668][202]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.03.05-13.47.12:668][202]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.03.05-13.47.12:668][202]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.03.05-13.47.12:668][202]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.03.05-13.47.12:733][202]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.03.05-13.47.12:733][202]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.03.05-13.47.12:733][202]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.03.05-13.47.12:733][202]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.03.05-13.47.12:733][202]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.03.05-13.47.12:733][202]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.03.05-13.47.12:733][202]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.03.05-13.47.12:733][202]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.03.05-13.47.12:733][202]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.03.05-13.47.12:733][202]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.03.05-13.47.12:733][202]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.03.05-13.47.12:734][202]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.03.05-13.47.12:735][202]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.03.05-13.47.12:735][202]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.03.05-13.47.12:735][202]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.03.05-13.47.12:735][202]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.03.05-13.47.12:735][202]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.03.05-13.47.12:735][202]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.03.05-13.47.12:735][202]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.03.05-13.47.12:735][202]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.03.05-13.47.12:735][202]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.03.05-13.47.12:735][202]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.03.05-13.47.12:739][202]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.03.05-13.47.12:882][202]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.03.05-13.47.12:883][202]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.03.05-13.47.12:884][202]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.03.05-13.47.12:885][202]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.03.05-13.47.12:986][202]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.03.05-13.47.13:087][202]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.03.05-13.47.13:087][202]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.03.05-13.47.13:089][202]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.03.05-13.47.13:089][202]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.03.05-13.47.13:089][202]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.03.05-13.47.13:089][202]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.03.05-13.47.13:089][202]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.03.05-13.47.13:091][202]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.03.05-13.47.13:091][202]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.03.05-13.47.13:091][202]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.03.05-13.47.13:091][202]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.03.05-13.47.13:091][202]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.03.05-13.47.13:091][202]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.03.05-13.47.13:091][202]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.03.05-13.47.13:092][202]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.03.05-13.47.13:094][202]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.03.05-13.47.13:095][202]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.03.05-13.47.13:163][202]LogDerivedDataCache: Shutdown
+[2020.03.05-13.47.13:163][202]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.03.05-13.47.13:164][202]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.03.05-13.47.13:164][202]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.03.05-13.47.13:164][202]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.03.05-13.47.13:165][202]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.03.05-13.47.13:165][202]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.03.05-13.47.13:165][202]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.03.05-13.47.13:165][202]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.03.05-13.47.13:165][202]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.03.05-13.47.13:165][202]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.03.05-13.47.13:165][202]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.03.05-13.47.13:166][202]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.03.05-13.47.13:166][202]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.03.05-13.47.13:166][202]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.03.05-13.47.13:166][202]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.03.05-13.47.13:166][202]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.03.05-13.47.13:167][202]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.03.05-13.47.13:167][202]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.03.05-13.47.13:202][202]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.03.05-13.47.13:203][202]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.03.05-13.47.13:203][202]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.03.05-13.47.13:203][202]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.03.05-13.47.13:204][202]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.03.05-13.47.13:221][202]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.03.05-13.47.13:221][202]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.03.05-13.47.13:229][202]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.03.05-13.47.13:229][202]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.03.05-13.47.13:255][202]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.03.05-13.47.13:256][202]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.03.05-13.47.13:256][202]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.03.05-13.47.13:256][202]LogHMD: Freeing OpenVRDLLHandle.
+[2020.03.05-13.47.13:256][202]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.03.05-13.47.13:256][202]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.03.05-13.47.13:256][202]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.03.05-13.47.13:256][202]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.03.05-13.47.13:256][202]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.03.05-13.47.13:257][202]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.03.05-13.47.13:257][202]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.03.05-13.47.13:287][202]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.03.05-13.47.13:287][202]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.03.05-13.47.13:287][202]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEEAB16F0-47A6-ED84-9435-E09D8E7417E0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=c24a74d84bb4f3cd35ddbf861872dad2%7C%7C82f29d39-9ca9-4e44-ade7-0b52c7c68e94&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.03.05-13.47.13:322][202]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.03.05-13.47.13:324][202]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.03.05-13.47.13:325][202]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.03.05-13.47.13:330][202]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.03.05-13.47.13:330][202]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.03.05-13.47.13:331][202]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.03.05-13.47.13:331][202]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.03.05-13.47.13:331][202]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.03.05-13.47.13:331][202]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.03.05-13.47.13:331][202]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.03.05-13.47.13:331][202]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.03.05-13.47.13:331][202]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.03.05-13.47.13:332][202]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.03.05-13.47.13:340][202]LogExit: Exiting.
+[2020.03.05-13.47.14:532][202]Log file closed, 03/05/20 13:47:14
